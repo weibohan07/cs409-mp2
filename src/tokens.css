@@ -1,0 +1,21 @@
+:root {
+  --paper: #f7f5ef;
+  --white: #fcfbf8;
+  --ink: #242e2b;
+  --muted: #64695f;
+  --accent: #9b492f;
+  --line: #d9d9d0;
+  --image-paper: #edeae1;
+  --hover: #f0eee6;
+  --serif: Georgia, 'Times New Roman', serif;
+  --sans: 'Helvetica Neue', Arial, sans-serif;
+}
+
+/* Catalogue titles remain readable without stretching every card in a row. */
+.art-card .art-info h2, .art-row .art-info h2 {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+}
+.art-row .art-info h2 { -webkit-line-clamp: 2; }

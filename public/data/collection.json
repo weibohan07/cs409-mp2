@@ -1,0 +1,3979 @@
+{
+  "collectedAt": "2026-10-07T03:14:54.238Z",
+  "source": "https://openaccess-api.clevelandart.org/api/artworks/",
+  "selection": "24 CC0 artworks with images returned by each of the Painting, Print and Sculpture queries. Search is limited to this saved selection.",
+  "data": [
+    {
+      "id": 94979,
+      "title": "Nathaniel Hurd",
+      "creators": [
+        {
+          "id": 2409,
+          "description": "John Singleton Copley (American, born The Thirteen Colonies, 1738–1815)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1738",
+          "death_year": "1815",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1765",
+      "creation_date_earliest": 1760,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 90.5 x 78 x 6.5 cm (35 5/8 x 30 11/16 x 2 9/16 in.); Unframed: 76.2 x 64.8 cm (30 x 25 1/2 in.)",
+      "culture": [
+        "America"
+      ],
+      "creditline": "Gift of the John Huntington Art and Polytechnic Trust",
+      "images": {
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.534/1915.534_web.jpg",
+          "width": "748",
+          "height": "893",
+          "filesize": "402404",
+          "filename": "1915.534_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.534/1915.534_print.jpg",
+          "width": "2849",
+          "height": "3400",
+          "filesize": "5904910",
+          "filename": "1915.534_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1915.534/1915.534_full.tif",
+          "width": "4609",
+          "height": "5500",
+          "filesize": "76080612",
+          "filename": "1915.534_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1915.534",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 102578,
+      "title": "Portrait of Dora Wheeler",
+      "creators": [
+        {
+          "id": 3071,
+          "description": "William Merritt Chase (American, 1849–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1849",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1882–83",
+      "creation_date_earliest": 1882,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 180.6 x 188.6 x 11 cm (71 1/8 x 74 1/4 x 4 5/16 in.); Unframed: 159.8 x 166.4 cm (62 15/16 x 65 1/2 in.)",
+      "culture": [
+        "America"
+      ],
+      "creditline": "Gift of Mrs. Boudinot Keith in memory of  Mr. and Mrs. J. H. Wade",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.1239/1921.1239_web.jpg",
+          "width": "939",
+          "height": "893",
+          "filesize": "175673",
+          "filename": "1921.1239_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.1239/1921.1239_print.jpg",
+          "width": "3400",
+          "height": "3254",
+          "filesize": "8163185",
+          "filename": "1921.1239_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1921.1239/1921.1239_full.tif",
+          "width": "5000",
+          "height": "4786",
+          "filesize": "71824808",
+          "filename": "1921.1239_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1921.1239",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 92937,
+      "title": "Stag at Sharkey's",
+      "creators": [
+        {
+          "id": 3005,
+          "description": "George Bellows (American, 1882–1925)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "An accomplished athlete, George Bellows (1882–1925) was an especially appropriate artist to address the subject of sports. Born and raised in Columbus, Ohio, he played baseball and basketball as a youth, developing sufficient ability to letter in both at Ohio State University. According to some accounts, scouts for the Cincinnati Reds took notice of his shortstop talents. However, Bellows’s first love, art, ultimately intervened, and after his junior year he relocated to New York to study painting. In a remarkably short period he became the leading artist of his generation, a reputation fueled through boxing subjects such as <em>Stag at Sharkey’s.</em> In his later years he developed recreational passions for tennis and billiards, which he routinely played with friends. Bellows’s life was cut short at the age of 42, due to complications after his appendix ruptured.",
+          "name_in_original_language": null,
+          "birth_year": "1882",
+          "death_year": "1925",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1909",
+      "creation_date_earliest": 1909,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 110 x 140.5 x 8.5 cm (43 5/16 x 55 5/16 x 3 3/8 in.); Unframed: 92 x 122.6 cm (36 1/4 x 48 1/4 in.)",
+      "culture": [
+        "America"
+      ],
+      "creditline": "Hinman B. Hurlbut Collection",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1922.1133/1922.1133_web.jpg",
+          "width": "1194",
+          "height": "893",
+          "filesize": "152341",
+          "filename": "1922.1133_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1922.1133/1922.1133_print.jpg",
+          "width": "3400",
+          "height": "2542",
+          "filesize": "1240178",
+          "filename": "1922.1133_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1922.1133/1922.1133_full.tif",
+          "width": "10552",
+          "height": "7890",
+          "filesize": "249794924",
+          "filename": "1922.1133_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1922.1133",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 151904,
+      "title": "The Biglin Brothers Turning the Stake",
+      "creators": [
+        {
+          "id": 4037,
+          "description": "Thomas Eakins (American, 1844–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1844",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1873",
+      "creation_date_earliest": 1873,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 117 x 167 x 6.5 cm (46 1/16 x 65 3/4 x 2 9/16 in.); Unframed: 101.3 x 151.4 cm (39 7/8 x 59 5/8 in.)",
+      "culture": [
+        "America"
+      ],
+      "creditline": "Hinman B. Hurlbut Collection",
+      "images": {
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.1984/1927.1984_web.jpg",
+          "width": "1263",
+          "height": "835",
+          "filesize": "780656",
+          "filename": "1927.1984_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.1984/1927.1984_print.jpg",
+          "width": "3400",
+          "height": "2247",
+          "filesize": "5271592",
+          "filename": "1927.1984_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.1984/1927.1984_full.tif",
+          "width": "7164",
+          "height": "4735",
+          "filesize": "101799424",
+          "filename": "1927.1984_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1927.1984",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 110180,
+      "title": "The Race Track (Death on a Pale Horse)",
+      "creators": [
+        {
+          "id": 3267,
+          "description": "Albert Pinkham Ryder (American, 1847–1917)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1847",
+          "death_year": "1917",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1896–1908",
+      "creation_date_earliest": 1896,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 84.5 x 102 x 6.5 cm (33 1/4 x 40 3/16 x 2 9/16 in.); Unframed: 70.5 x 90 cm (27 3/4 x 35 7/16 in.)",
+      "culture": [
+        "America"
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.8/1928.8_web.jpg",
+          "width": "900",
+          "height": "711",
+          "filesize": "190928",
+          "filename": "1928.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.8/1928.8_print.jpg",
+          "width": "3400",
+          "height": "2685",
+          "filesize": "3014421",
+          "filename": "1928.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1928.8/1928.8_full.tif",
+          "width": "14577",
+          "height": "11511",
+          "filesize": "503415724",
+          "filename": "1928.8_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1928.8",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 137259,
+      "title": "Mme L . . . (Laure Borreau)",
+      "creators": [
+        {
+          "id": 1600,
+          "description": "Gustave Courbet (French, 1819–1877)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Born into a wealthy farmer's family, Courbet began his training in 1831 at the Petit Séminaire in Ornans where, beginning in 1833, he studied under \"le père Baud,\" who had been a pupil of Gros (q.v.). He was befriended by poet Max Buchon, who would later write the first article on Courbet, claiming that he was the artist for the people. In 1837, hoping that Gustave would become a lawyer, his father sent him to the Collège Royal in Besançon. Despite his father's ambitions, Courbet began to study art at the academy there with Charles-Antoine Flageoulot (1774-1840), a former student of David (q.v.). By 1839 Courbet had moved to Paris to pursue a career in art. He refrained from entering the École des Beaux-Arts, studying instead briefly with Charles de Steuben (1788-1856) and preferring to learn how to paint by copying the works of the Old Masters in the museums. Courbet also wanted to work after life models and enrolled at the Académie Suisse. He began to submit paintings to the Salon, the majority of which were rejected. In 1846-47 Courbet traveled to the Netherlands where he studied the works of Rembrandt and Hals. The following year ten of his paintings were shown at the Salon, and together with his friends Baudelaire, Champfleury, and Buchon he became labeled a \"realist.\" Courbet's paintings shown at the 1851 Salon-Stonebreakers (1849, formerly Dresden Gemäldegalerie, destroyed during World War II), Peasants of Flagey (1850-55, Musée des Beaux-Arts, Besançon), and The Burial at Ornans (1849-50, Musée d'Orsay, Paris)-elicited criticism. Because Courbet represented the peasants as he saw them, without ennobling or idealizing them, his works met with disapproval. Moreover, these representations of peasants appeared at a time when the upper classes felt threatened by social unrest and by the instability of the republic. In 1855 Courbet financed an independent Pavillon du Réalisme near the Universal Exposition, where he showed his Painter's Studio (1854-55, Musée d'Orsay, Paris). He began to travel extensively, including visits to Gent, Brussels, Antwerp, Bruges, Cologne, Mainz, and Strasbourg. He returned to Germany in 1858, and while in Frankfurt, he began to paint the stag hunts he witnessed. The following year he visited the Normandy coast, painting seascapes, some of which became almost abstractions. Courbet turned to still lifes in 1862-63 when visiting the Saintonge area, yet he still continued to create landscapes and portraits. By 1870 he was offered the Legion of Honor but refused it because of his opposition to the imperial government. During the Paris Commune from March to May 1871, Courbet became an active member of the government. As chairman of the Commission for the Protection of the Artistic Monuments of Paris, he suggested the Vendôme Column be dismantled because it was an imperial symbol. The Commune decided instead to topple the column. When the Commune was defeated, Courbet was held responsible for this act of vandalism and was jailed for six months. In 1873 the government decided to rebuild the column at Courbet's expense. Unable to pay and fearful of being arrested, Courbet moved to Switzerland, where he spent the rest of his life in exile.",
+          "name_in_original_language": null,
+          "birth_year": "1819",
+          "death_year": "1877",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1863",
+      "creation_date_earliest": 1863,
+      "type": "Painting",
+      "technique": "oil on fabric",
+      "measurements": "Framed: 112.4 x 93 x 12.1 cm (44 1/4 x 36 5/8 x 4 3/4 in.); Unframed: 81 x 61.2 cm (31 7/8 x 24 1/8 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1962.2/1962.2_web.jpg",
+          "width": "684",
+          "height": "893",
+          "filesize": "345987",
+          "filename": "1962.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1962.2/1962.2_print.jpg",
+          "width": "2604",
+          "height": "3400",
+          "filesize": "5231419",
+          "filename": "1962.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1962.2/1962.2_full.tif",
+          "width": "4123",
+          "height": "5384",
+          "filesize": "66624912",
+          "filename": "1962.2_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1962.2",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 141639,
+      "title": "Twilight in the Wilderness",
+      "creators": [
+        {
+          "id": 2697,
+          "description": "Frederic Edwin Church (American, 1826–1900)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1826",
+          "death_year": "1900",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1860",
+      "creation_date_earliest": 1860,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Unframed: 101.6 x 162.6 cm (40 x 64 in.); Framed: 124 x 185 x 13 cm (48 13/16 x 72 13/16 x 5 1/8 in.)",
+      "culture": [
+        "United States"
+      ],
+      "creditline": "Mr. and Mrs. William H. Marlatt Fund",
+      "images": {
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_web.jpg",
+          "width": "900",
+          "height": "562",
+          "filesize": "254485",
+          "filename": "1965.233_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_print.jpg",
+          "width": "3400",
+          "height": "2123",
+          "filesize": "1604230",
+          "filename": "1965.233_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.233/1965.233_full.tif",
+          "width": "7673",
+          "height": "4791",
+          "filesize": "110309980",
+          "filename": "1965.233_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1965.233",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 149112,
+      "title": "Church Street El",
+      "creators": [
+        {
+          "id": 889,
+          "description": "Charles Sheeler (American, 1883–1965)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Charles Sheeler American, 1883-1965\r\n\r\nPhiladelphia-born Charles Sheeler was a well-known precisionist painter and photographer. After studying at the School of Industrial Art in Philadelphia (1900-3), he spent the next three years as a student of painter William Merritt Chase at the Pennsylvania Academy of Fine Arts. Around 1910 he took up photography as a way to support himself.\r\n\tSheeler began as an architectural photographer, documenting buildings for Philadelphia architects, but was soon taking pictures of paintings and other works of art. He continued to paint (in 1913 a group of his works were exhibited in the famous Armory Show in New York) and to photograph, often using his photographs as the basis for paintings. In 1917 his photographs were included in a three-person show along with Paul Strand and Morton Schamberg at Marius de Zayas's Modern Gallery in New York.\r\n\tTwo years later Sheeler moved to New York and in 1920 collaborated with Paul Strand on the avant-garde film Manhatta (originally titled New York the Magnificent). In 1923 he began working as a staff photographer for Condé Nast publications. Four years later he received his most important commercial commission when Ford Motor Company hired him to photograph its River Rouge plant. A powerful series of images celebrating American industry resulted and were widely published. They also served as an inspiration for a number of his paintings.\r\n\tIn 1939 a small group of Sheeler's photographs were included in a retrospective of his work organized by the Museum of Modern Art, New York. Over the next decade he worked as staff photographer for the Metropolitan Museum of Art and focused primarily on painting in his own work, especially during the late 1940s and 1950s. In 1959, after suffering a stroke, Sheeler stopped painting and photographing; he died six years later from a second stroke. M.M.",
+          "name_in_original_language": null,
+          "birth_year": "1883",
+          "death_year": "1965",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1920",
+      "creation_date_earliest": 1920,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 60 x 67.5 x 6 cm (23 5/8 x 26 9/16 x 2 3/8 in.); Unframed: 41 x 48.5 cm (16 1/8 x 19 1/8 in.)",
+      "culture": [
+        "United States"
+      ],
+      "creditline": "Mr. and Mrs. William H. Marlatt Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1977.43/1977.43_web.jpg",
+          "width": "1069",
+          "height": "893",
+          "filesize": "602527",
+          "filename": "1977.43_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1977.43/1977.43_print.jpg",
+          "width": "3400",
+          "height": "2841",
+          "filesize": "5386734",
+          "filename": "1977.43_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1977.43/1977.43_full.tif",
+          "width": "4446",
+          "height": "3715",
+          "filesize": "49578716",
+          "filename": "1977.43_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1977.43",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 135299,
+      "title": "Adeline Ravoux",
+      "creators": [
+        {
+          "id": 1779,
+          "description": "Vincent van Gogh (Dutch, 1853–1890)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "The son of a clergyman, Vincent van Gogh was sent to The Hague at the age of sixteen to become an apprentice at Goupil &amp; Co., an art dealer with whom his uncle was affiliated. In August 1872 van Gogh began his extensive correspondence with his younger brother Theo, who would join the Brussels branch of the firm the following year. Vincent was transferred to the London offices in 1873 and two years later to the Paris office, but he despised the art trade and was dismissed in 1876. He then taught briefly at a boarding school in Ramsgate and Isleworth, and, back in the Netherlands, worked in a bookshop in Dordrecht before moving to Amsterdam to study theology. In little more than a year he had left the university and entered missionary school, failing again. Still intent on entering the ministry, he moved to the Borinage in Belgium and became a lay evangelist to the miners. Van Gogh finally decided to become an artist in August 1880 and started copying works by Millet (q.v.), the painter of peasant life. With his brother's financial help, he briefly joined the Academy in Brussels. The following year he returned to The Hague, where he received some artistic training from his cousin by marriage, Anton Mauve (1838-1888). There van Gogh met Sien Hoornik, a pregnant prostitute with a five-year-old daughter, with whom he lived briefly. Unable to marry her because of his family's disapproval, he moved in November 1883 from The Hague to the province of Drenthe, a popular place for artists, where he painted and drew laborers and peasants. Feeling terribly lonely, he visited his parents in December 1884 in Nuenen, and it was there that he finally decided to become a painter of peasant life. Van Gogh completed The Potato Eaters (Van Gogh Museum, Amsterdam) in April 1885 and sent it to his brother in Paris. On 25 November he moved to Antwerp, where he reveled in the work of Rubens and first came to know Japanese prints. Van Gogh traveled to Paris in March 1886 and lived with Theo. Under the influence of the impressionists, and works by Monticelli (q.v.), his palette changed to more intense and vibrant colors. He began to associate with Émile Bernard (1868-1941), Henri de Toulouse-Lautrec (1864-1901), Degas (q.v.), Gauguin (q.v.), Pissarro (q.v.), and Seurat (q.v.) and started collecting some of their paintings as well as Japanese prints. He moved to Arles in February 1888. Apart from paintings, he also made some drawings because it was a cheaper medium. Theo encouraged him to submit to the Salon des Indépendants. In May Vincent rented a room in the Yellow House, even though he could hardly afford to do so, and continued to send his work to his brother. In June he became intrigued with the subject of the wheat harvest and painted The Sower (Kröller-Müller Museum, Otterlo). On 23 October 1888, Gauguin arrived in Arles, at a time when van Gogh was having trouble with his eyesight. Gauguin encouraged him to paint from memory, which resulted in Memory of the Garden in Etten (Hermitage, St. Petersburg). The artists, however, had many disagreements, and during a dramatic quarrel on 23 December van Gogh mutilated his ear. He was taken into a hospital in Arles, and Gauguin left for Paris. Van Gogh recovered rapidly and was dismissed on 7 January 1889. In February his neighbors objected to his presence in the Yellow House, and he had to return to the hospital. In April Theo married Johanna Gesina Bonger, who would eventually safeguard most of Vincent's oeuvre. Aware of his mental problems, at the end of April van Gogh checked himself into the asylum of Saint-Paul-de-Mausole in Saint-Rémy, where he was treated by Dr. Peyron. His condition was stable, and he was allowed to work in a makeshift studio. He worked in the garden (Irises, J. Paul Getty Museum, Los Angeles) and painted the fields he could see from his window. Under supervision he painted in the countryside, rendering cypresses and olive trees. Starry Night (Museum of Modern Art, New York) also stems from this period. From July through September he suffered from a severe depression that prevented him from working. He resumed his work from October through December, painting well-known Provençal works and adapting prints after Delacroix (q.v.), Millet, and Rembrandt (1606-1669). In January 1890 he exhibited five works with Les XX in Brussels, selling one of them. After a visit to Arles at the end of February, he became ill again but continued to work. He finally left the asylum, and visited Theo in Paris on his way to Auvers, where he arrived on 20 May. He became close friends with Dr. Gachet and rented a room at the inn of the Ravoux family. He painted the village, portraits, and the surrounding wheat fields. On 27 July 1890, during an episode of depression, van Gogh shot himself in the chest and died two days later.",
+          "name_in_original_language": null,
+          "birth_year": "1853",
+          "death_year": "1890",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1890",
+      "creation_date_earliest": 1890,
+      "type": "Painting",
+      "technique": "oil on fabric",
+      "measurements": "Framed: 72.5 x 73.5 x 8.5 cm (28 9/16 x 28 15/16 x 3 3/8 in.); Unframed: 50.2 x 50.5 cm (19 3/4 x 19 7/8 in.)",
+      "culture": [
+        "Netherlands"
+      ],
+      "creditline": "Bequest of Leonard C. Hanna Jr.",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_web.jpg",
+          "width": "900",
+          "height": "897",
+          "filesize": "451143",
+          "filename": "1958.31_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_print.jpg",
+          "width": "3400",
+          "height": "3389",
+          "filesize": "6008242",
+          "filename": "1958.31_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.31/1958.31_full.tif",
+          "width": "11512",
+          "height": "11476",
+          "filesize": "396370084",
+          "filename": "1958.31_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1958.31",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 93014,
+      "title": "View of Schroon Mountain, Essex County, New York, After a Storm",
+      "creators": [
+        {
+          "id": 2659,
+          "description": "Thomas Cole (American, born England,1801–1848)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1801",
+          "death_year": "1848",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1838",
+      "creation_date_earliest": 1838,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 132.5 x 193.5 x 13 cm (52 3/16 x 76 3/16 x 5 1/8 in.); Unframed: 99.8 x 160.6 cm (39 5/16 x 63 1/4 in.)",
+      "culture": [
+        "America"
+      ],
+      "creditline": "Hinman B. Hurlbut Collection",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.1335/1917.1335_web.jpg",
+          "width": "1263",
+          "height": "775",
+          "filesize": "716717",
+          "filename": "1917.1335_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.1335/1917.1335_print.jpg",
+          "width": "3400",
+          "height": "2086",
+          "filesize": "5582485",
+          "filename": "1917.1335_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1917.1335/1917.1335_full.tif",
+          "width": "6280",
+          "height": "3853",
+          "filesize": "72628688",
+          "filename": "1917.1335_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1917.1335",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 135382,
+      "title": "The Red Kerchief",
+      "creators": [
+        {
+          "id": 1844,
+          "description": "Claude Monet (French, 1840–1926)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Claude Monet spent his youth in Le Havre in Normandy, where his father worked as a wholesale grocer. By the age of sixteen, he had exhibited some of his caricatures in an art supply store, leading to his acquaintance with Boudin (q.v.). It was Boudin who first encouraged him to paint out of doors. In 1859 Monet traveled to Paris, where he saw Boudin's salon debut and met Constant Troyon (1810-1865). A year later he joined the Académie Suisse, where he was introduced to Pissarro (q.v.), but his studies were interrupted in 1861 when he was drafted for a seven-year stint in the military. His family would pay for his release from military duties only if he gave up painting. Finding this unacceptable, Monet served for one year in Algeria before an early return to France to convalesce after a severe illness. In 1862 he met Jongkind (q.v.), another important influence on the young painter's development. Monet's father then allowed him to pursue his art career in Paris, where he entered the studio of the Swiss painter Charles Gleyre (1806-1874). He studied with Gleyre until 1864 and befriended Frédéric Bazille (1841-1870), Renoir (q.v.), and Sisley (q.v.), with whom he painted in the forest of Fontainebleau (Déjeuner sur l'herbe, 1865, two fragments in Musée d'Orsay, Paris). Monet first exhibited at the Salon of 1865 and would do so again in 1866, 1868, and 1880. In 1868 he shared a studio with Bazille and Renoir but was soon forced to leave Paris to escape his creditors. He took his mistress, Camille Doncieux, and their son, Jean, to Fécamp, then Étretat, and finally Saint-Michel. There Renoir provided hospitality, and the two also painted at the boating and bathing center of La Grenouillère on the Seine. In 1870 Monet married Camille and, to escape the Franco-Prussian War, left for London, where he remained for nine months and met Durand-Ruel, his first dealer. In the summer of 1871 he visited the Netherlands and then settled in Argenteuil, to the west of Paris. He converted a boat into a studio, as Daubigny (q.v.) had done before him, allowing him to explore different viewpoints for his landscapes. He assisted in the organization of the First Impressionist Exhibition in 1874, partly because Durand-Ruel's worsened business situation had prevented the dealer from buying his art. The following year he participated in the Hôtel Drouot sale with Morisot (q.v.), Renoir, and Sisley. In 1878 Monet and his wife moved to Vétheuil with the Hoschedés, who had previously commissioned some works. Camille died the following year, and, while Ernest Hoschedé spent most of his time in Paris trying to settle his precarious financial situation, Monet stayed behind with Ernest's wife, Alice. In 1881 he moved with her and her children to Poissy and within two years was living at Giverny, where he would remain for the rest of his life. He painted some of his famous scenes-the haystack and poplar series, for example- in 1890-91. Ernest Hoschedé died in 1891, and Monet married Alice the following year. At Giverny, Monet explored the themes of his garden and water lilies. He continued to travel, going to Norway in 1895, making three trips to London from 1899 through 1901, and taking Alice to Venice in 1908. The final years of his life were mainly spent working on his Great Decorations, large paintings of a water lily pond designed for two oval rooms at the Paris Orangerie. Monet is generally considered the most typical exponent of impressionism.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1926",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1868–73",
+      "creation_date_earliest": 1868,
+      "type": "Painting",
+      "technique": "oil on fabric",
+      "measurements": "Framed: 128.3 x 105.7 x 14.6 cm (50 1/2 x 41 5/8 x 5 3/4 in.); Unframed: 99 x 79.8 cm (39 x 31 7/16 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Bequest of Leonard C. Hanna Jr.",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.39/1958.39_web.jpg",
+          "width": "723",
+          "height": "900",
+          "filesize": "242663",
+          "filename": "1958.39_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.39/1958.39_print.jpg",
+          "width": "2732",
+          "height": "3400",
+          "filesize": "3767988",
+          "filename": "1958.39_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.39/1958.39_full.tif",
+          "width": "11652",
+          "height": "14500",
+          "filesize": "506893484",
+          "filename": "1958.39_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1958.39",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 128391,
+      "title": "Portrait of a Family Playing Music",
+      "creators": [
+        {
+          "id": 2633,
+          "description": "Pieter de Hooch (Dutch, 1629–1684)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1629",
+          "death_year": "1684",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1663",
+      "creation_date_earliest": 1663,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 124.5 x 142.5 x 7 cm (49 x 56 1/8 x 2 3/4 in.); Unframed: 98.7 x 116.7 cm (38 7/8 x 45 15/16 in.)",
+      "culture": [
+        "Netherlands"
+      ],
+      "creditline": "Gift of the Hanna Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.355/1951.355_web.jpg",
+          "width": "900",
+          "height": "759",
+          "filesize": "188537",
+          "filename": "1951.355_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.355/1951.355_print.jpg",
+          "width": "3400",
+          "height": "2867",
+          "filesize": "2369926",
+          "filename": "1951.355_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1951.355/1951.355_full.tif",
+          "width": "13750",
+          "height": "11594",
+          "filesize": "478282288",
+          "filename": "1951.355_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1951.355",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 140161,
+      "title": "A Woman's Work",
+      "creators": [
+        {
+          "id": 3285,
+          "description": "John Sloan (American, 1871–1951)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1871",
+          "death_year": "1951",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1912",
+      "creation_date_earliest": 1912,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 97.2 x 82.2 x 6.4 cm (38 1/4 x 32 3/8 x 2 1/2 in.); Unframed: 80.3 x 65.4 cm (31 5/8 x 25 3/4 in.)",
+      "culture": [
+        "America"
+      ],
+      "creditline": "Gift of Amelia Elizabeth White",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.160/1964.160_web.jpg",
+          "width": "730",
+          "height": "900",
+          "filesize": "",
+          "filename": "1964.160_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.160/1964.160_print.jpg",
+          "width": "2757",
+          "height": "3400",
+          "filesize": "",
+          "filename": "1964.160_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.160/1964.160_full.tif",
+          "width": "5462",
+          "height": "6736",
+          "filesize": "",
+          "filename": "1964.160_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1964.160",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 125104,
+      "title": "Frieze of Dancers",
+      "creators": [
+        {
+          "id": 1759,
+          "description": "Edgar Degas (French, 1834–1917)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Son of a Parisian banker, Edgar Degas enrolled in law school in 1853 following his father's wishes. But he had already shown an interest in art and had also registered to copy at the Louvre. In 1855 he entered the École des Beaux-Arts and became a student of Louis Lamothe (1822-1869), a former pupil of Ingres (q.v.). One year later Degas made the traditional journey to Italy, remaining there for three years. He visited family members in Naples and Florence and attended life classes at the Villa Medici in Rome. A visit to Normandy in 1861 may have introduced him to the racetrack. In Paris he continued to study at the Louvre, where he met Manet (q.v.) in 1862. Apart from his continuous interest in portraiture and history painting, Degas began to pay attention to subjects of modern life. Between 1865 and 1870, he exhibited at the Salon. At the time of the Franco-Prussian War, he enlisted in the artillery, but because of his poor eyesight he served (with Manet) in the infantry. After the war he traveled first to London and, in 1872-73, visited his uncle and brothers who had a cotton business in New Orleans. Degas participated in the first impressionist exhibition of 1874. He continued to exhibit with these artists until 1886 but never completely considered himself a member of the group, preferring to call himself a realist or naturalist. While many of the impressionists painted en plein air, Degas worked with models in his studio and, later in his career, from his imagination. In addition to painting, he experimented often with monotypes, engraving, pastels, sculpture, and photography. He traveled extensively-London, Naples, Spain, Morocco, and Switzerland-but continued to draw his subject matter from modern-day Paris. Other recurring themes would be the female nude and the ballet dancer. After the impressionist exhibition of 1886, Degas no longer participated in group shows. Instead he sold his works to private dealers such as Durand-Ruel and Ambroise Vollard. In the 1890s he began his own art collection, which, besides many works on paper, included paintings by such artists as Ingres, Cézanne (q.v.), Delacroix (q.v.), Gauguin (q.v.), and van Gogh (q.v.). His own art at the time became characterized by broader strokes of paint, charcoal, and pastel and the use of more vibrant colors, partly because of problems with his vision. His failing eyesight and poor health caused him to abandon his pursuit of art during the last years of his life.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1917",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1895",
+      "creation_date_earliest": 1890,
+      "type": "Painting",
+      "technique": "oil on fabric",
+      "measurements": "Framed: 103 x 233.5 x 7 cm (40 9/16 x 91 15/16 x 2 3/4 in.); Unframed: 70 x 200.5 cm (27 9/16 x 78 15/16 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Gift of the Hanna Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1946.83/1946.83_web.jpg",
+          "width": "900",
+          "height": "314",
+          "filesize": "96599",
+          "filename": "1946.83_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1946.83/1946.83_print.jpg",
+          "width": "3400",
+          "height": "1187",
+          "filesize": "1203087",
+          "filename": "1946.83_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1946.83/1946.83_full.tif",
+          "width": "32683",
+          "height": "11412",
+          "filesize": "1118962804",
+          "filename": "1946.83_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1946.83",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 138464,
+      "title": "Cupid and Psyche",
+      "creators": [
+        {
+          "id": 1643,
+          "description": "Jacques-Louis David (French, 1748–1825)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "The founder and leading painter of the neoclassical movement in France, Jacques-Louis David was born in Paris to a prosperous family of artists and archi-tects. In 1766 he entered the Académie Royale as the pupil of Joseph-Marie Vien (1716-1809). After several failed attempts, David won the Prix de Rome in 1774. The following year he left for Italy, where he studied antique art and envisioned replacing the frivolity of the rococo with an art of grandeur, simplicity, and moral virtue. After returning to Paris in 1780, he established his reputa-tion with three spectacular successes at the Salon: The Oath of the Horatii (1785, Musée du Louvre, Paris), The Death of Socrates (1787, Metropolitan Museum of Art, New York), and The Lictors Bring-ing Brutus the Bodies of His Sons (1789, Musée du Louvre, Paris). Widely interpreted as moral parables for contemporary political events, these archetypes of neoclassical aesthetics set the standard for academic painting of the next century. In the 1790s David joined the radical Jacobin Club and played an active role in the French Revolution. He allied himself with Robespierre, served a short term as president of the Convention, and voted for the execution of Louis XVI. He also placed his artistic talents at the service of the Revolution by creating paintings that glorified its martyrs and by organizing public festivals that celebrated the new political order. As the most prominent artist in the revolutionary ranks, he led the attack against the Académie Royale that culminated in its abolish-ment in 1793. When the excesses of the Reign of Terror precipitated the fall of Robespierre in 1794, David was imprison-ed but spared execution. Authorities released him the following year due to ill health. Around 1798 David developed a new alliance with the brilliant young general of the Directory, Napoléon Bonaparte. David's painting The Intervention of the Sabine Women (1799, Musée du Louvre, Paris) coalesced perfectly with Napoleonic propaganda urging national reconciliation. After the coup d'état of 1799, Napoléon was named first consul and began supplying David with important commissions. Upon Napoléon's coronation in 1804, David was appointed first painter to the emperor. David's monumental painting The Coronation of Napoléon, or Le Sacre (1805-7, Musée du Louvre, Paris), introduced a less spartan, more colorful and emotive style. However, as seen in his life-size portrait Napoléon in His Study (1812, National Gallery of Art, Washington, D.C.), David increasingly searched to balance this new heroic-romanticism with an exacting realism. In 1816, following Napoléon's defeat at Waterloo and the restoration of the monarchy, David went into exile in Belgium. He spent the last nine years of his life in Brussels, painting mostly mythological subjects and portraits. David died of a stroke in 1825 and was denied burial in France.",
+          "name_in_original_language": null,
+          "birth_year": "1748",
+          "death_year": "1825",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1817",
+      "creation_date_earliest": 1817,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 221 x 282 x 10 cm (87 x 111 x 3 15/16 in.); Unframed: 184.2 x 241.6 cm (72 1/2 x 95 1/8 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1962.37/1962.37_web.jpg",
+          "width": "1180",
+          "height": "893",
+          "filesize": "695293",
+          "filename": "1962.37_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1962.37/1962.37_print.jpg",
+          "width": "3400",
+          "height": "2574",
+          "filesize": "5203435",
+          "filename": "1962.37_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1962.37/1962.37_full.tif",
+          "width": "5000",
+          "height": "3785",
+          "filesize": "56804216",
+          "filename": "1962.37_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1962.37",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 127571,
+      "title": "Portrait of a Man, Possibly Girolamo Rosati",
+      "creators": [
+        {
+          "id": 2209,
+          "description": "Lorenzo Lotto (Italian, 1480–1556)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1480",
+          "death_year": "1556",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1533–34",
+      "creation_date_earliest": 1533,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 135.9 x 128 x 8.6 cm (53 1/2 x 50 3/8 x 3 3/8 in.); Unframed: 108.2 x 100.5 cm (42 5/8 x 39 9/16 in.)",
+      "culture": [
+        "Italy"
+      ],
+      "creditline": "Gift of the Hanna Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1950.250/1950.250_web.jpg",
+          "width": "824",
+          "height": "893",
+          "filesize": "534682",
+          "filename": "1950.250_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1950.250/1950.250_print.jpg",
+          "width": "3139",
+          "height": "3400",
+          "filesize": "8148748",
+          "filename": "1950.250_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1950.250/1950.250_full.tif",
+          "width": "4838",
+          "height": "5239",
+          "filesize": "76068296",
+          "filename": "1950.250_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1950.250",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 109245,
+      "title": "Elizabeth Shewell West and Her Son, Raphael",
+      "creators": [
+        {
+          "id": 2553,
+          "description": "Benjamin West (American, born The Thirteen Colonies, 1738–1820)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1738",
+          "death_year": "1820",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1770",
+      "creation_date_earliest": 1765,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 88 x 87.5 x 9 cm (34 5/8 x 34 7/16 x 3 9/16 in.); Unframed: 66.5 x 66.3 cm (26 3/16 x 26 1/8 in.)",
+      "culture": [
+        "America"
+      ],
+      "creditline": "The Charles W. Harkness Gift",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.393/1927.393_web.jpg",
+          "width": "890",
+          "height": "893",
+          "filesize": "515554",
+          "filename": "1927.393_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.393/1927.393_print.jpg",
+          "width": "3387",
+          "height": "3400",
+          "filesize": "6602921",
+          "filename": "1927.393_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.393/1927.393_full.tif",
+          "width": "3626",
+          "height": "3640",
+          "filesize": "39621584",
+          "filename": "1927.393_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1927.393",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 160885,
+      "title": "Portrait of Tieleman Roosterman",
+      "creators": [
+        {
+          "id": 2614,
+          "description": "Frans Hals (Dutch, c. 1581–1666)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "c. 1581/85-1666",
+          "name_in_original_language": null,
+          "birth_year": "1581",
+          "death_year": "1666",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1634",
+      "creation_date_earliest": 1634,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 139 x 109 x 5.5 cm (54 3/4 x 42 15/16 x 2 3/16 in.); Unframed: 117 x 87 cm (46 1/16 x 34 1/4 in.)",
+      "culture": [
+        "Netherlands"
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.173/1999.173_web.jpg",
+          "width": "664",
+          "height": "893",
+          "filesize": "53872",
+          "filename": "1999.173_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.173/1999.173_print.jpg",
+          "width": "2529",
+          "height": "3400",
+          "filesize": "857877",
+          "filename": "1999.173_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1999.173/1999.173_full.tif",
+          "width": "11364",
+          "height": "15277",
+          "filesize": "520848048",
+          "filename": "1999.173_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1999.173",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 140408,
+      "title": "Peregrine Falcons (Duck Hawks)",
+      "creators": [
+        {
+          "id": 2694,
+          "description": "John James Audubon (American, born Haiti, 1785–1851)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1785",
+          "death_year": "1851",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1827",
+      "creation_date_earliest": 1822,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 74.9 x 101 x 10.2 cm (29 1/2 x 39 3/4 x 4 in.); Unframed: 64.5 x 91.5 cm (25 3/8 x 36 in.)",
+      "culture": [
+        "America"
+      ],
+      "creditline": "Gift of the American Foundation for the Maud E. and Warren H. Corning Botanical Collection",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.351/1964.351_web.jpg",
+          "width": "1263",
+          "height": "892",
+          "filesize": "892020",
+          "filename": "1964.351_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.351/1964.351_print.jpg",
+          "width": "3400",
+          "height": "2400",
+          "filesize": "6321024",
+          "filename": "1964.351_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.351/1964.351_full.tif",
+          "width": "5000",
+          "height": "3529",
+          "filesize": "52961248",
+          "filename": "1964.351_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1964.351",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 117032,
+      "title": "The Sacrifice of Isaac",
+      "creators": [
+        {
+          "id": 2291,
+          "description": "Andrea del Sarto (Italian, 1486–1530)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1486",
+          "death_year": "1530",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1527",
+      "creation_date_earliest": 1522,
+      "type": "Painting",
+      "technique": "oil on wood",
+      "measurements": "Framed: 208 x 171 x 12.5 cm (81 7/8 x 67 5/16 x 4 15/16 in.); Unframed: 178 x 138 cm (70 1/16 x 54 5/16 in.)",
+      "culture": [
+        "Italy, Florence"
+      ],
+      "creditline": "Delia E. Holden and L. E. Holden Funds",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1937.577/1937.577_web.jpg",
+          "width": "697",
+          "height": "900",
+          "filesize": "306442",
+          "filename": "1937.577_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1937.577/1937.577_print.jpg",
+          "width": "2633",
+          "height": "3400",
+          "filesize": "2768419",
+          "filename": "1937.577_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1937.577/1937.577_full.tif",
+          "width": "9939",
+          "height": "12836",
+          "filesize": "382761404",
+          "filename": "1937.577_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1937.577",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 135428,
+      "title": "Hunting near Hartenfels Castle",
+      "creators": [
+        {
+          "id": 2647,
+          "description": "Lucas Cranach (German, 1472–1553)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1472",
+          "death_year": "1553",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1540",
+      "creation_date_earliest": 1540,
+      "type": "Painting",
+      "technique": "oil, originally on wood, transferred to masonite",
+      "measurements": "Framed: 133 x 185.5 x 7.3 cm (52 3/8 x 73 1/16 x 2 7/8 in.); Unframed: 116.8 x 170.2 cm (46 x 67 in.)",
+      "culture": [
+        "Germany"
+      ],
+      "creditline": "John L. Severance Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.425/1958.425_web.jpg",
+          "width": "1263",
+          "height": "866",
+          "filesize": "1094651",
+          "filename": "1958.425_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.425/1958.425_print.jpg",
+          "width": "3400",
+          "height": "2332",
+          "filesize": "7869098",
+          "filename": "1958.425_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.425/1958.425_full.tif",
+          "width": "5000",
+          "height": "3430",
+          "filesize": "51477396",
+          "filename": "1958.425_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1958.425",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 131819,
+      "title": "A Genoese Lady with Her Child",
+      "creators": [
+        {
+          "id": 2443,
+          "description": "Anthony van Dyck (Flemish, 1599–1641)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1599",
+          "death_year": "1641",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1623–25",
+      "creation_date_earliest": 1623,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 266.5 x 184 x 12 cm (104 15/16 x 72 7/16 x 4 3/4 in.); Unframed: 217.8 x 146 cm (85 3/4 x 57 1/2 in.)",
+      "culture": [
+        "Flanders"
+      ],
+      "creditline": "Gift of the Hanna Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.392/1954.392_web.jpg",
+          "width": "595",
+          "height": "893",
+          "filesize": "365511",
+          "filename": "1954.392_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.392/1954.392_print.jpg",
+          "width": "2265",
+          "height": "3400",
+          "filesize": "5477506",
+          "filename": "1954.392_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1954.392/1954.392_full.tif",
+          "width": "3787",
+          "height": "5684",
+          "filesize": "64614100",
+          "filename": "1954.392_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1954.392",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 150389,
+      "title": "The Holy Family on the Steps",
+      "creators": [
+        {
+          "id": 1946,
+          "description": "Nicolas Poussin (French, 1594–1665)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1594",
+          "death_year": "1665",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1648",
+      "creation_date_earliest": 1648,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 103.5 x 135.3 x 13.3 cm (40 3/4 x 53 1/4 x 5 1/4 in.); Unframed: 73.3 x 105.8 cm (28 7/8 x 41 5/8 in.); Former: 72.3 x 104 cm (28 7/16 x 40 15/16 in.)",
+      "culture": [
+        "France"
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1981.18/1981.18_web.jpg",
+          "width": "1263",
+          "height": "867",
+          "filesize": "690276",
+          "filename": "1981.18_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1981.18/1981.18_print.jpg",
+          "width": "3400",
+          "height": "2333",
+          "filesize": "4960315",
+          "filename": "1981.18_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1981.18/1981.18_full.tif",
+          "width": "6000",
+          "height": "4117",
+          "filesize": "74137996",
+          "filename": "1981.18_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1981.18",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 148758,
+      "title": "The Crucifixion of Saint Andrew",
+      "creators": [
+        {
+          "id": 2065,
+          "description": "Caravaggio (Italian, 1571–1610)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1571",
+          "death_year": "1610",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1606–7",
+      "creation_date_earliest": 1606,
+      "type": "Painting",
+      "technique": "oil on canvas",
+      "measurements": "Framed: 233.5 x 184 x 12 cm (91 15/16 x 72 7/16 x 4 3/4 in.); Unframed: 202.5 x 152.7 cm (79 3/4 x 60 1/8 in.)",
+      "culture": [
+        "Italy, Naples"
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.2/1976.2_web.jpg",
+          "width": "678",
+          "height": "900",
+          "filesize": "223048",
+          "filename": "1976.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.2/1976.2_print.jpg",
+          "width": "2563",
+          "height": "3400",
+          "filesize": "2852637",
+          "filename": "1976.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1976.2/1976.2_full.tif",
+          "width": "11447",
+          "height": "15187",
+          "filesize": "521573284",
+          "filename": "1976.2_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1976.2",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 112586,
+      "title": "Venus Reclining in a Landscape",
+      "creators": [
+        {
+          "id": 24423,
+          "description": "Giulio Campagnola (Italian, 1482–1515)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1482",
+          "death_year": "1515",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1508–9",
+      "creation_date_earliest": 1508,
+      "type": "Print",
+      "technique": "engraving",
+      "measurements": "Platemark: 11.9 x 18.3 cm (4 11/16 x 7 3/16 in.); Sheet: 11.9 x 18.3 cm (4 11/16 x 7 3/16 in.)",
+      "culture": [
+        "Italy, late 15th-early 16th Century"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1931.205/1931.205_web.jpg",
+          "width": "900",
+          "height": "605",
+          "filesize": "262871",
+          "filename": "1931.205_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1931.205/1931.205_print.jpg",
+          "width": "3400",
+          "height": "2286",
+          "filesize": "3939835",
+          "filename": "1931.205_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1931.205/1931.205_full.tif",
+          "width": "11175",
+          "height": "7515",
+          "filesize": "251970898",
+          "filename": "1931.205_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1931.205",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 108501,
+      "title": "Melencolia I",
+      "creators": [
+        {
+          "id": 11617,
+          "description": "Albrecht Dürer (German, 1471–1528)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1471",
+          "death_year": "1528",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1514",
+      "creation_date_earliest": 1514,
+      "type": "Print",
+      "technique": "engraving",
+      "measurements": "Platemark: 23.8 x 18.9 cm (9 3/8 x 7 7/16 in.); Sheet: 24.5 x 19.4 cm (9 5/8 x 7 5/8 in.)",
+      "culture": [
+        "Germany"
+      ],
+      "creditline": "Gift of Leonard C. Hanna Jr., in memory of Ralph King",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.211/1926.211_web.jpg",
+          "width": "707",
+          "height": "893",
+          "filesize": "581035",
+          "filename": "1926.211_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.211/1926.211_print.jpg",
+          "width": "2693",
+          "height": "3400",
+          "filesize": "8049637",
+          "filename": "1926.211_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.211/1926.211_full.tif",
+          "width": "3960",
+          "height": "5000",
+          "filesize": "59419320",
+          "filename": "1926.211_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1926.211",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 143142,
+      "title": "Battle of the Nudes",
+      "creators": [
+        {
+          "id": 24324,
+          "description": "Antonio del Pollaiuolo (Italian, 1431/32–1498)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1431",
+          "death_year": "1498",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1470s–80s",
+      "creation_date_earliest": 1470,
+      "type": "Print",
+      "technique": "engraving",
+      "measurements": "Platemark: 42 x 60.4 cm (16 9/16 x 23 3/4 in.); Sheet: 42.4 x 60.9 cm (16 11/16 x 24 in.)",
+      "culture": [
+        "Italy"
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.127/1967.127_web.jpg",
+          "width": "900",
+          "height": "627",
+          "filesize": "283209",
+          "filename": "1967.127_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.127/1967.127_print.jpg",
+          "width": "3400",
+          "height": "2368",
+          "filesize": "3943570",
+          "filename": "1967.127_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.127/1967.127_full.tif",
+          "width": "21465",
+          "height": "14950",
+          "filesize": "962739264",
+          "filename": "1967.127_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1967.127",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 123964,
+      "title": "Adam and Eve",
+      "creators": [
+        {
+          "id": 11617,
+          "description": "Albrecht Dürer (German, 1471–1528)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1471",
+          "death_year": "1528",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1504",
+      "creation_date_earliest": 1504,
+      "type": "Print",
+      "technique": "engraving",
+      "measurements": "Image: 25 x 19.2 cm (9 13/16 x 7 9/16 in.); Sheet: 25.2 x 19.4 cm (9 15/16 x 7 5/8 in.)",
+      "culture": [
+        "Germany, early 16th Century"
+      ],
+      "creditline": "Dudley P. Allen Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.473/1944.473_web.jpg",
+          "width": "696",
+          "height": "900",
+          "filesize": "411228",
+          "filename": "1944.473_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.473/1944.473_print.jpg",
+          "width": "2629",
+          "height": "3400",
+          "filesize": "5572005",
+          "filename": "1944.473_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1944.473/1944.473_full.tif",
+          "width": "9509",
+          "height": "12296",
+          "filesize": "350802384",
+          "filename": "1944.473_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1944.473",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 120632,
+      "title": "Christ Carrying the Cross",
+      "creators": [
+        {
+          "id": 12292,
+          "description": "Martin Schongauer (German, c. 1450–1491)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Martin Schongauer (ca. 1450-53, Colmar - 2 February 1491, Breisach) was one of the most skilled and influential graphic artists of Europe in the last quarter of the 15h century. Trained both as an engraver and as a painter, Schongauer started his apprenticeship under his father Caspar Schongauer, a goldsmith from Augsburg. In 1465, he matriculated at the University of Leipzig. After one year, he left his studies, and came back to Colmar. There, he was trained under the painter Caspar Isenmann, between 1466 and 1469. Schongauer later traveled down to the Rhine, Cologne, Burgundy, the Netherlands, and he likely visited Spain. In 1489, he became a citizen of Breisach, where he died probably of the plague in 1491. Only a few of Schongauer's paintings survive. Among these is the <em>Madonna in the Rose Garden</em> for the Church of Saint Martin in Colmar (1473), which betrays Schongauer's admiration for the works by the Netherlandish painter Roger Van der Weyden. The bulk of Schongauer's engravings is more conspicuous: 116 prints, none of them dated, but all marked by his monogram M+S. Characterized by exquisite cross-hatching and impeccable craftsmanship, Schongauer's engravings were widely imitated by the German printmakers Ishrael van Meckenem and Albrecht Durer, as well as by Italian artists, such as Cristoforo Robetta and Nicoletto da Modena.",
+          "name_in_original_language": null,
+          "birth_year": "1450",
+          "death_year": "1491",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1475–90",
+      "creation_date_earliest": 1470,
+      "type": "Print",
+      "technique": "engraving",
+      "measurements": "Sheet: 29 x 43.6 cm (11 7/16 x 17 3/16 in.)",
+      "culture": [
+        "Germany"
+      ],
+      "creditline": "Dudley P. Allen Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.389/1941.389_web.jpg",
+          "width": "900",
+          "height": "614",
+          "filesize": "308461",
+          "filename": "1941.389_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.389/1941.389_print.jpg",
+          "width": "3400",
+          "height": "2320",
+          "filesize": "4440446",
+          "filename": "1941.389_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1941.389/1941.389_full.tif",
+          "width": "12716",
+          "height": "8675",
+          "filesize": "330967648",
+          "filename": "1941.389_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1941.389",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 109147,
+      "title": "Closed Eyes",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 61664,
+          "description": "Becquet (French)",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        }
+      ],
+      "creation_date": "1890",
+      "creation_date_earliest": 1890,
+      "type": "Print",
+      "technique": "lithograph on China paper laid on wove paper",
+      "measurements": "Image: 31.2 x 24.2 cm (12 5/16 x 9 1/2 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.306/1927.306_web.jpg",
+          "width": "693",
+          "height": "893",
+          "filesize": "445495",
+          "filename": "1927.306_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.306/1927.306_print.jpg",
+          "width": "2637",
+          "height": "3400",
+          "filesize": "6379120",
+          "filename": "1927.306_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.306/1927.306_full.tif",
+          "width": "4350",
+          "height": "5608",
+          "filesize": "73216644",
+          "filename": "1927.306_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1927.306",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 136609,
+      "title": "Hercules at the Crossroad",
+      "creators": [
+        {
+          "id": 11617,
+          "description": "Albrecht Dürer (German, 1471–1528)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1471",
+          "death_year": "1528",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1498",
+      "creation_date_earliest": 1493,
+      "type": "Print",
+      "technique": "engraving",
+      "measurements": "Image: 32.4 x 22.2 cm (12 3/4 x 8 3/4 in.); Sheet: 32.4 x 22.2 cm (12 3/4 x 8 3/4 in.)",
+      "culture": [
+        "Germany, late 15th-early 16th century"
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1961.170/1961.170_web.jpg",
+          "width": "624",
+          "height": "900",
+          "filesize": "311129",
+          "filename": "1961.170_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1961.170/1961.170_print.jpg",
+          "width": "2359",
+          "height": "3400",
+          "filesize": "4326275",
+          "filename": "1961.170_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1961.170/1961.170_full.tif",
+          "width": "8569",
+          "height": "12348",
+          "filesize": "317462940",
+          "filename": "1961.170_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1961.170",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 128048,
+      "title": "Equestrian Portrait of the Emperor Maximilian",
+      "creators": [
+        {
+          "id": 22920,
+          "description": "Hans Burgkmair (German, 1473–1531)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1473",
+          "death_year": "1531",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1508",
+      "creation_date_earliest": 1508,
+      "type": "Print",
+      "technique": "woodcut, in black and white on paper washed blue",
+      "measurements": "Sheet: 32.3 x 22.7 cm (12 11/16 x 8 15/16 in.)",
+      "culture": [
+        "Germany"
+      ],
+      "creditline": "John L. Severance Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1950.72/1950.72_web.jpg",
+          "width": "631",
+          "height": "893",
+          "filesize": "520998",
+          "filename": "1950.72_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1950.72/1950.72_print.jpg",
+          "width": "2404",
+          "height": "3400",
+          "filesize": "7123559",
+          "filename": "1950.72_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1950.72/1950.72_full.tif",
+          "width": "3536",
+          "height": "5000",
+          "filesize": "53073756",
+          "filename": "1950.72_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1950.72",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 112932,
+      "title": "Beatrice",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 28934,
+          "description": "Auguste Clot (French, 1858–1936)",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1858",
+          "death_year": "1936",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        },
+        {
+          "id": 291938,
+          "description": "Ambroise Vollard (French, 1867–1939)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": "French art dealer and publisher, 1867-1939",
+          "name_in_original_language": null,
+          "birth_year": "1867",
+          "death_year": "1939",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "creation_date": "1897",
+      "creation_date_earliest": 1897,
+      "type": "Print",
+      "technique": "color lithograph on China paper laid on wove paper",
+      "measurements": "Image: 33.6 x 29.6 cm (13 1/4 x 11 5/8 in.)",
+      "culture": [
+        "France, late 19th Century"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1931.50/1931.50_web.jpg",
+          "width": "793",
+          "height": "893",
+          "filesize": "419467",
+          "filename": "1931.50_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1931.50/1931.50_print.jpg",
+          "width": "3020",
+          "height": "3400",
+          "filesize": "6496143",
+          "filename": "1931.50_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1931.50/1931.50_full.tif",
+          "width": "3270",
+          "height": "3682",
+          "filesize": "36150448",
+          "filename": "1931.50_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1931.50",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 143203,
+      "title": "Conversation: Ludovic Halévy and Madame Cardinal (The Conversation) for \"La Famille Cardinal\" by Ludovic Halévy",
+      "creators": [
+        {
+          "id": 1759,
+          "description": "Edgar Degas (French, 1834–1917)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Son of a Parisian banker, Edgar Degas enrolled in law school in 1853 following his father's wishes. But he had already shown an interest in art and had also registered to copy at the Louvre. In 1855 he entered the École des Beaux-Arts and became a student of Louis Lamothe (1822-1869), a former pupil of Ingres (q.v.). One year later Degas made the traditional journey to Italy, remaining there for three years. He visited family members in Naples and Florence and attended life classes at the Villa Medici in Rome. A visit to Normandy in 1861 may have introduced him to the racetrack. In Paris he continued to study at the Louvre, where he met Manet (q.v.) in 1862. Apart from his continuous interest in portraiture and history painting, Degas began to pay attention to subjects of modern life. Between 1865 and 1870, he exhibited at the Salon. At the time of the Franco-Prussian War, he enlisted in the artillery, but because of his poor eyesight he served (with Manet) in the infantry. After the war he traveled first to London and, in 1872-73, visited his uncle and brothers who had a cotton business in New Orleans. Degas participated in the first impressionist exhibition of 1874. He continued to exhibit with these artists until 1886 but never completely considered himself a member of the group, preferring to call himself a realist or naturalist. While many of the impressionists painted en plein air, Degas worked with models in his studio and, later in his career, from his imagination. In addition to painting, he experimented often with monotypes, engraving, pastels, sculpture, and photography. He traveled extensively-London, Naples, Spain, Morocco, and Switzerland-but continued to draw his subject matter from modern-day Paris. Other recurring themes would be the female nude and the ballet dancer. After the impressionist exhibition of 1886, Degas no longer participated in group shows. Instead he sold his works to private dealers such as Durand-Ruel and Ambroise Vollard. In the 1890s he began his own art collection, which, besides many works on paper, included paintings by such artists as Ingres, Cézanne (q.v.), Delacroix (q.v.), Gauguin (q.v.), and van Gogh (q.v.). His own art at the time became characterized by broader strokes of paint, charcoal, and pastel and the use of more vibrant colors, partly because of problems with his vision. His failing eyesight and poor health caused him to abandon his pursuit of art during the last years of his life.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1917",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1880–83",
+      "creation_date_earliest": 1880,
+      "type": "Print",
+      "technique": "monotype",
+      "measurements": "Platemark: 21.3 x 16 cm (8 3/8 x 6 5/16 in.); Sheet: 25.5 x 17.8 cm (10 1/16 x 7 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland in honor of Henry Sayles Francis",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.167/1967.167_web.jpg",
+          "width": "676",
+          "height": "893",
+          "filesize": "472333",
+          "filename": "1967.167_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.167/1967.167_print.jpg",
+          "width": "2575",
+          "height": "3400",
+          "filesize": "6476179",
+          "filename": "1967.167_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1967.167/1967.167_full.tif",
+          "width": "3900",
+          "height": "5150",
+          "filesize": "60289340",
+          "filename": "1967.167_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1967.167",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 142356,
+      "title": "Estérel Village",
+      "creators": [
+        {
+          "id": 1759,
+          "description": "Edgar Degas (French, 1834–1917)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "Son of a Parisian banker, Edgar Degas enrolled in law school in 1853 following his father's wishes. But he had already shown an interest in art and had also registered to copy at the Louvre. In 1855 he entered the École des Beaux-Arts and became a student of Louis Lamothe (1822-1869), a former pupil of Ingres (q.v.). One year later Degas made the traditional journey to Italy, remaining there for three years. He visited family members in Naples and Florence and attended life classes at the Villa Medici in Rome. A visit to Normandy in 1861 may have introduced him to the racetrack. In Paris he continued to study at the Louvre, where he met Manet (q.v.) in 1862. Apart from his continuous interest in portraiture and history painting, Degas began to pay attention to subjects of modern life. Between 1865 and 1870, he exhibited at the Salon. At the time of the Franco-Prussian War, he enlisted in the artillery, but because of his poor eyesight he served (with Manet) in the infantry. After the war he traveled first to London and, in 1872-73, visited his uncle and brothers who had a cotton business in New Orleans. Degas participated in the first impressionist exhibition of 1874. He continued to exhibit with these artists until 1886 but never completely considered himself a member of the group, preferring to call himself a realist or naturalist. While many of the impressionists painted en plein air, Degas worked with models in his studio and, later in his career, from his imagination. In addition to painting, he experimented often with monotypes, engraving, pastels, sculpture, and photography. He traveled extensively-London, Naples, Spain, Morocco, and Switzerland-but continued to draw his subject matter from modern-day Paris. Other recurring themes would be the female nude and the ballet dancer. After the impressionist exhibition of 1886, Degas no longer participated in group shows. Instead he sold his works to private dealers such as Durand-Ruel and Ambroise Vollard. In the 1890s he began his own art collection, which, besides many works on paper, included paintings by such artists as Ingres, Cézanne (q.v.), Delacroix (q.v.), Gauguin (q.v.), and van Gogh (q.v.). His own art at the time became characterized by broader strokes of paint, charcoal, and pastel and the use of more vibrant colors, partly because of problems with his vision. His failing eyesight and poor health caused him to abandon his pursuit of art during the last years of his life.",
+          "name_in_original_language": null,
+          "birth_year": "1834",
+          "death_year": "1917",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "c. 1890",
+      "creation_date_earliest": 1885,
+      "type": "Print",
+      "technique": "color monotype",
+      "measurements": "Sheet: 29.9 x 39.9 cm (11 3/4 x 15 11/16 in.); Image: 29.9 x 39.9 cm (11 3/4 x 15 11/16 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Fiftieth anniversary gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.177/1966.177_web.jpg",
+          "width": "900",
+          "height": "677",
+          "filesize": "263825",
+          "filename": "1966.177_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.177/1966.177_print.jpg",
+          "width": "3400",
+          "height": "2559",
+          "filesize": "3646298",
+          "filename": "1966.177_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.177/1966.177_full.tif",
+          "width": "7548",
+          "height": "5680",
+          "filesize": "128648972",
+          "filename": "1966.177_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1966.177",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 107520,
+      "title": "Parsifal",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 61664,
+          "description": "Becquet (French)",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        }
+      ],
+      "creation_date": "1892",
+      "creation_date_earliest": 1892,
+      "type": "Print",
+      "technique": "lithograph",
+      "measurements": "Image: 32.2 x 24.2 cm (12 11/16 x 9 1/2 in.)",
+      "culture": [
+        "France, 19th-20th century"
+      ],
+      "creditline": "Gift of Ralph King",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1925.21/1925.21_web.jpg",
+          "width": "676",
+          "height": "893",
+          "filesize": "513464",
+          "filename": "1925.21_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1925.21/1925.21_print.jpg",
+          "width": "2575",
+          "height": "3400",
+          "filesize": "8005247",
+          "filename": "1925.21_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1925.21/1925.21_full.tif",
+          "width": "2898",
+          "height": "3826",
+          "filesize": "33296328",
+          "filename": "1925.21_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1925.21",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 108403,
+      "title": "And He Had in His Right Hand Seven Stars; and Out of His Mouth Went a Sharp Two-Edged Sword",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67505,
+          "description": "Blanchard",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        },
+        {
+          "id": 291938,
+          "description": "Ambroise Vollard (French, 1867–1939)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": "French art dealer and publisher, 1867-1939",
+          "name_in_original_language": null,
+          "birth_year": "1867",
+          "death_year": "1939",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "creation_date": "1899",
+      "creation_date_earliest": 1899,
+      "type": "Print",
+      "technique": "lithograph on China paper laid on wove paper",
+      "measurements": "Image: 29.2 x 20.9 cm (11 1/2 x 8 1/4 in.); Sheet: 56.1 x 42.4 cm (22 1/16 x 16 11/16 in.)",
+      "culture": [
+        "France, late 19th Century"
+      ],
+      "creditline": "Gift of Ralph King",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.8/1926.140.8_web.jpg",
+          "width": "634",
+          "height": "893",
+          "filesize": "410933",
+          "filename": "1926.140.8_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.8/1926.140.8_print.jpg",
+          "width": "2412",
+          "height": "3400",
+          "filesize": "6127911",
+          "filename": "1926.140.8_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.8/1926.140.8_full.tif",
+          "width": "2586",
+          "height": "3646",
+          "filesize": "28318152",
+          "filename": "1926.140.8_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1926.140.8",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 138857,
+      "title": "Apollo on Parnassus",
+      "creators": [
+        {
+          "id": 4579,
+          "description": "Marcantonio Raimondi (Italian, 1470/82–1527/34)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1470",
+          "death_year": "1534",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 4584,
+          "description": "Raphael (Italian, 1483–1520)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": "Raffaello Sanzio (Urbino, April 6, 1483-Rome, April 6, 1520), commonly known as Raphael, was one of the most admired Italian painters and architects on the High Renaissance. He was trained in his native city Urbino, a center of art and culture during the rule of the Duke Federico da Montefeltro. Around 1495, Raphael moved to Perugia and joined the master Pietro Perugino's workshop. He later sojourned to Siena, and then resided in Florence by the autumn of 1504. There, Raphael studied the works by Renaissance masters such as Leonardo da Vinci, Michelangelo, Fra Bartolomeo, and Masaccio. Raphael is best known for his paintings of Madonnas (from 1504 through 1507), and the frescoes that Pope Julio II commissioned to him in the Vatican Palace in Rome in 1514. The same year architect Donato Bramante died, and the pope appointed Raphael chief architect. Raphael's style was based on clarity of forms and harmonious compositions; after his death, his works were highly admired by both Mannerist and Baroque artists.",
+          "name_in_original_language": null,
+          "birth_year": "1483",
+          "death_year": "1520",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "creation_date": "c. 1517–20",
+      "creation_date_earliest": 1512,
+      "type": "Print",
+      "technique": "engraving",
+      "measurements": "Sheet: 35.5 x 46.9 cm (14 x 18 7/16 in.)",
+      "culture": [
+        "Italy"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1963.231/1963.231_web.jpg",
+          "width": "900",
+          "height": "689",
+          "filesize": "308145",
+          "filename": "1963.231_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1963.231/1963.231_print.jpg",
+          "width": "3400",
+          "height": "2604",
+          "filesize": "4374997",
+          "filename": "1963.231_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1963.231/1963.231_full.tif",
+          "width": "10473",
+          "height": "8021",
+          "filesize": "252045782",
+          "filename": "1963.231_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1963.231",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 108408,
+      "title": "And I John Saw These Things, and Heard Them",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67505,
+          "description": "Blanchard",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        },
+        {
+          "id": 291938,
+          "description": "Ambroise Vollard (French, 1867–1939)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": "French art dealer and publisher, 1867-1939",
+          "name_in_original_language": null,
+          "birth_year": "1867",
+          "death_year": "1939",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "creation_date": "1899",
+      "creation_date_earliest": 1899,
+      "type": "Print",
+      "technique": "lithograph",
+      "measurements": "Image: 15.8 x 19 cm (6 1/4 x 7 1/2 in.)",
+      "culture": [
+        "France, late 19th Century"
+      ],
+      "creditline": "Gift of Ralph King",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.13/1926.140.13_web.jpg",
+          "width": "695",
+          "height": "893",
+          "filesize": "458863",
+          "filename": "1926.140.13_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.13/1926.140.13_print.jpg",
+          "width": "2648",
+          "height": "3400",
+          "filesize": "6824817",
+          "filename": "1926.140.13_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.13/1926.140.13_full.tif",
+          "width": "2868",
+          "height": "3682",
+          "filesize": "31712900",
+          "filename": "1926.140.13_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1926.140.13",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 108401,
+      "title": "A Woman Clothed with the Sun",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1899",
+      "creation_date_earliest": 1899,
+      "type": "Print",
+      "technique": "lithograph",
+      "measurements": "Image: 23 x 28.6 cm (9 1/16 x 11 1/4 in.); Sheet: 56 x 42.4 cm (22 1/16 x 16 11/16 in.)",
+      "culture": [
+        "France, late 19th Century"
+      ],
+      "creditline": "Gift of Ralph King",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.6/1926.140.6_web.jpg",
+          "width": "701",
+          "height": "893",
+          "filesize": "490512",
+          "filename": "1926.140.6_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.6/1926.140.6_print.jpg",
+          "width": "2669",
+          "height": "3400",
+          "filesize": "7031811",
+          "filename": "1926.140.6_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.6/1926.140.6_full.tif",
+          "width": "2886",
+          "height": "3676",
+          "filesize": "31861008",
+          "filename": "1926.140.6_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1926.140.6",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 109202,
+      "title": "Then There Appears a Singular Being, Having the Head of a Man on the Body of a Fish",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 61664,
+          "description": "Becquet (French)",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        },
+        {
+          "id": 367963,
+          "description": "Edmond Deman",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "creation_date": "1888",
+      "creation_date_earliest": 1888,
+      "type": "Print",
+      "technique": "lithograph",
+      "measurements": "Image: 27.5 x 17 cm (10 13/16 x 6 11/16 in.); Sheet: 44.1 x 30.8 cm (17 3/8 x 12 1/8 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.477.6/1927.477.6_web.jpg",
+          "width": "581",
+          "height": "893",
+          "filesize": "434707",
+          "filename": "1927.477.6_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.477.6/1927.477.6_print.jpg",
+          "width": "2211",
+          "height": "3400",
+          "filesize": "6307670",
+          "filename": "1927.477.6_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.477.6/1927.477.6_full.tif",
+          "width": "3023",
+          "height": "4648",
+          "filesize": "42182844",
+          "filename": "1927.477.6_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1927.477.6",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 142697,
+      "title": "I Saw a Flash of Light, Large and Pale",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 28934,
+          "description": "Auguste Clot (French, 1858–1936)",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1858",
+          "death_year": "1936",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        }
+      ],
+      "creation_date": "1896",
+      "creation_date_earliest": 1896,
+      "type": "Print",
+      "technique": "lithograph on China paper laid on wove paper",
+      "measurements": "Image: 23 x 17 cm (9 1/16 x 6 11/16 in.); Sheet: 45 x 31.3 cm (17 11/16 x 12 5/16 in.)",
+      "culture": [
+        "France, late 19th Century"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.413.3/1966.413.3_web.jpg",
+          "width": "655",
+          "height": "893",
+          "filesize": "432117",
+          "filename": "1966.413.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.413.3/1966.413.3_print.jpg",
+          "width": "2492",
+          "height": "3400",
+          "filesize": "6469180",
+          "filename": "1966.413.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.413.3/1966.413.3_full.tif",
+          "width": "3847",
+          "height": "5248",
+          "filesize": "60597340",
+          "filename": "1966.413.3_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1966.413.3",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 109206,
+      "title": "Everywhere Eyeballs are Aflame",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 61664,
+          "description": "Becquet (French)",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        },
+        {
+          "id": 367963,
+          "description": "Edmond Deman",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "creation_date": "1888",
+      "creation_date_earliest": 1888,
+      "type": "Print",
+      "technique": "lithograph",
+      "measurements": "Image: 20.4 x 15.8 cm (8 1/16 x 6 1/4 in.); Sheet: 44.1 x 30.7 cm (17 3/8 x 12 1/16 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.477.10/1927.477.10_web.jpg",
+          "width": "705",
+          "height": "893",
+          "filesize": "485747",
+          "filename": "1927.477.10_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.477.10/1927.477.10_print.jpg",
+          "width": "2685",
+          "height": "3400",
+          "filesize": "6407905",
+          "filename": "1927.477.10_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.477.10/1927.477.10_full.tif",
+          "width": "3411",
+          "height": "4319",
+          "filesize": "44226812",
+          "filename": "1927.477.10_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1927.477.10",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 108404,
+      "title": "And I Saw an Angel Coming Down from Heaven, Having the Key of the Bottomless Pit and a Great Chain in His Hand",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 67505,
+          "description": "Blanchard",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        },
+        {
+          "id": 291938,
+          "description": "Ambroise Vollard (French, 1867–1939)",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": "French art dealer and publisher, 1867-1939",
+          "name_in_original_language": null,
+          "birth_year": "1867",
+          "death_year": "1939",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "creation_date": "1899",
+      "creation_date_earliest": 1899,
+      "type": "Print",
+      "technique": "lithograph",
+      "measurements": "Image: 30.4 x 23.2 cm (11 15/16 x 9 1/8 in.)",
+      "culture": [
+        "France, late 19th Century"
+      ],
+      "creditline": "Gift of Ralph King",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.9/1926.140.9_web.jpg",
+          "width": "663",
+          "height": "893",
+          "filesize": "375914",
+          "filename": "1926.140.9_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.9/1926.140.9_print.jpg",
+          "width": "2524",
+          "height": "3400",
+          "filesize": "5702613",
+          "filename": "1926.140.9_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1926.140.9/1926.140.9_full.tif",
+          "width": "2796",
+          "height": "3766",
+          "filesize": "31621536",
+          "filename": "1926.140.9_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1926.140.9",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 109200,
+      "title": "And a Large Bird, Descending from the Sky, Hurls Itself against the Topmost Point of Her Hair",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 61664,
+          "description": "Becquet (French)",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        },
+        {
+          "id": 367963,
+          "description": "Edmond Deman",
+          "extent": "published by",
+          "qualifier": null,
+          "role": "publisher",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 3
+        }
+      ],
+      "creation_date": "1888",
+      "creation_date_earliest": 1888,
+      "type": "Print",
+      "technique": "lithograph",
+      "measurements": "Image: 19 x 16 cm (7 1/2 x 6 5/16 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.477.4/1927.477.4_web.jpg",
+          "width": "752",
+          "height": "893",
+          "filesize": "612290",
+          "filename": "1927.477.4_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.477.4/1927.477.4_print.jpg",
+          "width": "2863",
+          "height": "3400",
+          "filesize": "8224905",
+          "filename": "1927.477.4_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.477.4/1927.477.4_full.tif",
+          "width": "3450",
+          "height": "4097",
+          "filesize": "42436544",
+          "filename": "1927.477.4_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1927.477.4",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 140248,
+      "title": "The Massacre of the Innocents (Without the Fir Tree)",
+      "creators": [
+        {
+          "id": 4579,
+          "description": "Marcantonio Raimondi (Italian, 1470/82–1527/34)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1470",
+          "death_year": "1534",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 4584,
+          "description": "Raphael (Italian, 1483–1520)",
+          "extent": null,
+          "qualifier": "after",
+          "role": "artist",
+          "biography": "Raffaello Sanzio (Urbino, April 6, 1483-Rome, April 6, 1520), commonly known as Raphael, was one of the most admired Italian painters and architects on the High Renaissance. He was trained in his native city Urbino, a center of art and culture during the rule of the Duke Federico da Montefeltro. Around 1495, Raphael moved to Perugia and joined the master Pietro Perugino's workshop. He later sojourned to Siena, and then resided in Florence by the autumn of 1504. There, Raphael studied the works by Renaissance masters such as Leonardo da Vinci, Michelangelo, Fra Bartolomeo, and Masaccio. Raphael is best known for his paintings of Madonnas (from 1504 through 1507), and the frescoes that Pope Julio II commissioned to him in the Vatican Palace in Rome in 1514. The same year architect Donato Bramante died, and the pope appointed Raphael chief architect. Raphael's style was based on clarity of forms and harmonious compositions; after his death, his works were highly admired by both Mannerist and Baroque artists.",
+          "name_in_original_language": null,
+          "birth_year": "1483",
+          "death_year": "1520",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 2
+        }
+      ],
+      "creation_date": "c. 1511–12",
+      "creation_date_earliest": 1506,
+      "type": "Print",
+      "technique": "engraving",
+      "measurements": "Sheet: 28 x 42.6 cm (11 x 16 3/4 in.)",
+      "culture": [
+        "Italy"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.23/1964.23_web.jpg",
+          "width": "900",
+          "height": "602",
+          "filesize": "351420",
+          "filename": "1964.23_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.23/1964.23_print.jpg",
+          "width": "3400",
+          "height": "2274",
+          "filesize": "4204359",
+          "filename": "1964.23_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1964.23/1964.23_full.tif",
+          "width": "6564",
+          "height": "4391",
+          "filesize": "86497820",
+          "filename": "1964.23_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1964.23",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 109192,
+      "title": "The Marsh Flower, a Sad Human Head",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 68492,
+          "description": "Lemercier & Cie.",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        }
+      ],
+      "creation_date": "1885",
+      "creation_date_earliest": 1885,
+      "type": "Print",
+      "technique": "lithograph on China paper laid on wove paper",
+      "measurements": "Image: 27.5 x 20.5 cm (10 13/16 x 8 1/16 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.344.2/1927.344.2_web.jpg",
+          "width": "669",
+          "height": "900",
+          "filesize": "283714",
+          "filename": "1927.344.2_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.344.2/1927.344.2_print.jpg",
+          "width": "2528",
+          "height": "3400",
+          "filesize": "4495400",
+          "filename": "1927.344.2_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1927.344.2/1927.344.2_full.tif",
+          "width": "6374",
+          "height": "8571",
+          "filesize": "163923834",
+          "filename": "1927.344.2_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1927.344.2",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 142699,
+      "title": "To All Appearances, It Was a Hand of Flesh and Blood Just Like My Own",
+      "creators": [
+        {
+          "id": 1748,
+          "description": "Odilon Redon (French, 1840–1916)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "A leader of the symbolist movement in France, Odilon Redon was born in Bordeaux in 1840 and grew up in the surrounding region. During his early years he studied drawing, architecture, and the violin. A friendship with Armand Clavaud, a local botanist and philosopher, stimulated Redon's passion for romantic art and literature. In 1864, after a brief and discouraging period of instruction with Gérôme in Paris, Redon returned to Bordeaux, where he studied printmaking with Rodolphe Bresdin (1825-1885). Deploring the emphasis on rational, phenomenal experience in academic and naturalist art, Redon turned for inspiration to the imaginative paintings of Delacroix, the prints of Francisco José de Goya (1746-1828), and the poetry of Charles Baudelaire. In 1870, after military service in the Franco-Prussian War, Redon settled in Paris and produced his first <em>Noirs</em>. These visionary images, featuring floating eyes and severed heads born aloft on wings, reflect Redon's belief in the superiority of the imagination and fantasy, which he considered \"the messenger of the unconscious.\" After producing his initial <em>Noirs </em>in charcoal, Redon discovered a method of transferring his drawings to lithography in 1876. Throughout the 1880s he continued to use charcoal, etching, and lithography as his primary media, and he produced twelve lithography albums before abandoning the genre in the late 1890s. During the 1880s Redon emerged as a leader of the symbolist reaction against impressionism. The publication in 1879 of his first lithographic album, <em>Dans le rêve</em>, followed by his first solo exhibition in 1881, attracted the admiration of J. K. Huysmans, who included illustrations by Redon in his novel <em>À rebours</em> (1884). Around the same time, Redon developed a personal and artistic relationship with poet Stéphane Mallarmé. Increasingly drawn into the public arena, Redon helped organize the Société des Artistes Indépendants in 1884. In 1886 he participated in the last impressionist exhibition and began showing with Les XX in Brussels. Redon's antinaturalist, visionary, art inspired many symbolist and Nabi artists, including Gauguin and Vuillard. Maurice Denis praised Redon as \"our Mallarmé,\" and in 1892 critic Albert Aurier described Redon as a leader of the new \"idealistic\" tendency in art. After 1890 the focus of Redon's activity shifted from monochromatic drawings and prints toward exploring color in richly worked pastels. His innovations in luminous color, as seen in the pastel and oil paintings he exhibited at the Galeries Durand-Ruel in 1900 were greatly admired by Henri Matisse (1869-1954) and the Fauves. Awarded the Legion of Honor in 1903, Redon continued his leadership role in the avant-garde and in 1904 became a founding member of the Salon d'Automne. In 1913 forty of his works were selected for exhibition in the Armory Show, the most by any artist. Redon died at his home in Paris in the summer of 1916.",
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1916",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        },
+        {
+          "id": 28934,
+          "description": "Auguste Clot (French, 1858–1936)",
+          "extent": "printed by",
+          "qualifier": null,
+          "role": "printer",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1858",
+          "death_year": "1936",
+          "use_in_caption": true,
+          "include_extent": true,
+          "weight": 2
+        }
+      ],
+      "creation_date": "1896",
+      "creation_date_earliest": 1896,
+      "type": "Print",
+      "technique": "lithograph on China paper laid on wove paper",
+      "measurements": "Image: 24.5 x 17.8 cm (9 5/8 x 7 in.); Sheet: 24.8 x 31.3 cm (9 3/4 x 12 5/16 in.)",
+      "culture": [
+        "France, late 19th Century"
+      ],
+      "creditline": "Gift of The Print Club of Cleveland",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.413.5/1966.413.5_web.jpg",
+          "width": "621",
+          "height": "893",
+          "filesize": "396446",
+          "filename": "1966.413.5_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.413.5/1966.413.5_print.jpg",
+          "width": "2364",
+          "height": "3400",
+          "filesize": "6046121",
+          "filename": "1966.413.5_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.413.5/1966.413.5_full.tif",
+          "width": "3869",
+          "height": "5565",
+          "filesize": "64622764",
+          "filename": "1966.413.5_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1966.413.5",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 135539,
+      "title": "Mourner from the Tomb of Philip the Bold, Duke of Burgundy (1364–1404)",
+      "creators": [
+        {
+          "id": 9759,
+          "description": "Claus de Werve (Netherlandish, 1380–1439)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "active in Burgundy (mostly Dijon) from 1396 until his death.",
+          "name_in_original_language": null,
+          "birth_year": "1380",
+          "death_year": "1439",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1404–10",
+      "creation_date_earliest": 1404,
+      "type": "Sculpture",
+      "technique": "vizille alabaster",
+      "measurements": "Overall: 41.1 x 17.6 x 11 cm (16 3/16 x 6 15/16 x 4 5/16 in.)",
+      "culture": [
+        "Netherlands, active Dijon, 15th century"
+      ],
+      "creditline": "Bequest of Leonard C. Hanna Jr.",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.67/1958.67_web.jpg",
+          "width": "688",
+          "height": "900",
+          "filesize": "150561",
+          "filename": "1958.67_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.67/1958.67_print.jpg",
+          "width": "2598",
+          "height": "3400",
+          "filesize": "890224",
+          "filename": "1958.67_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.67/1958.67_full.tif",
+          "width": "10652",
+          "height": "13938",
+          "filesize": "445430252",
+          "filename": "1958.67_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1958.67",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 111811,
+      "title": "Nataraja, Shiva as the Lord of Dance",
+      "creators": [],
+      "creation_date": "1000s",
+      "creation_date_earliest": 1000,
+      "type": "Sculpture",
+      "technique": "Bronze",
+      "measurements": "Overall: 113 x 102 x 30 cm (44 1/2 x 40 3/16 x 11 13/16 in.); Base: 35 x 24 cm (13 3/4 x 9 7/16 in.)",
+      "culture": [
+        "South India, Tamil Nadu, Chola period (900–1200s)"
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "images": {
+        "annotation": "",
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1930.331/1930.331_web.jpg",
+          "width": "714",
+          "height": "893",
+          "filesize": "328531",
+          "filename": "1930.331_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1930.331/1930.331_print.jpg",
+          "width": "2720",
+          "height": "3400",
+          "filesize": "4331593",
+          "filename": "1930.331_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1930.331/1930.331_full.tif",
+          "width": "4400",
+          "height": "5500",
+          "filesize": "72632996",
+          "filename": "1930.331_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1930.331",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 135920,
+      "title": "Saint Lawrence",
+      "creators": [
+        {
+          "id": 9821,
+          "description": "Tilman Riemenschneider (German, active Würzburg, c. 1460–1531)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "death_year": "1531",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1502–8",
+      "creation_date_earliest": 1502,
+      "type": "Sculpture",
+      "technique": "lindenwood with polychromy and gilding",
+      "measurements": "Overall: 93.8 x 38.5 x 21.8 cm (36 15/16 x 15 3/16 x 8 9/16 in.)",
+      "culture": [
+        "Germany, Würzburg, 16th century"
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_web.jpg",
+          "width": "629",
+          "height": "893",
+          "filesize": "57577",
+          "filename": "1959.42_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_print.jpg",
+          "width": "2396",
+          "height": "3400",
+          "filesize": "753153",
+          "filename": "1959.42_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1959.42/1959.42_full.tif",
+          "width": "4131",
+          "height": "5861",
+          "filesize": "72665024",
+          "filename": "1959.42_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1959.42",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 98823,
+      "title": "Amitabha Triad",
+      "creators": [],
+      "creation_date": "1400s",
+      "creation_date_earliest": 1400,
+      "type": "Sculpture",
+      "technique": "bronze with traces of gilding",
+      "measurements": "Overall: 40.6 x 16.5 x 54.6 cm (16 x 6 1/2 x 21 1/2 in.)",
+      "culture": [
+        "Korea, Joseon dynasty (1392–1910)"
+      ],
+      "creditline": "Worcester R. Warner Collection",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1918.501/1918.501_web.jpg",
+          "width": "900",
+          "height": "675",
+          "filesize": "136454",
+          "filename": "1918.501_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1918.501/1918.501_print.jpg",
+          "width": "3400",
+          "height": "2549",
+          "filesize": "1494432",
+          "filename": "1918.501_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1918.501/1918.501_full.tif",
+          "width": "13934",
+          "height": "10448",
+          "filesize": "436775888",
+          "filename": "1918.501_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1918.501",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 135538,
+      "title": "Mourner from the Tomb of Philip the Bold, Duke of Burgundy (1364–1404)",
+      "creators": [
+        {
+          "id": 9759,
+          "description": "Claus de Werve (Netherlandish, 1380–1439)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "active in Burgundy (mostly Dijon) from 1396 until his death.",
+          "name_in_original_language": null,
+          "birth_year": "1380",
+          "death_year": "1439",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1404–10",
+      "creation_date_earliest": 1404,
+      "type": "Sculpture",
+      "technique": "vizille alabaster",
+      "measurements": "Overall: 41 x 12.7 x 15 cm (16 1/8 x 5 x 5 7/8 in.)",
+      "culture": [
+        "Netherlands, active Dijon, 15th century"
+      ],
+      "creditline": "Bequest of Leonard C. Hanna Jr.",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.66/1958.66_web.jpg",
+          "width": "689",
+          "height": "900",
+          "filesize": "144378",
+          "filename": "1958.66_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.66/1958.66_print.jpg",
+          "width": "2604",
+          "height": "3400",
+          "filesize": "793975",
+          "filename": "1958.66_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1958.66/1958.66_full.tif",
+          "width": "10652",
+          "height": "13907",
+          "filesize": "444439528",
+          "filename": "1958.66_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1958.66",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 145412,
+      "title": "Portrait of Hottō Enmyō Kokushi",
+      "creators": [],
+      "creation_date": "c. 1295–1315",
+      "creation_date_earliest": 1295,
+      "type": "Sculpture",
+      "technique": "Hinoki cypress wood with lacquer, metal staples and fittings",
+      "measurements": "Overall: 91.4 cm (36 in.)",
+      "culture": [
+        "Japan, Kamakura period (1185–1333)"
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.67/1970.67_web.jpg",
+          "width": "678",
+          "height": "900",
+          "filesize": "136343",
+          "filename": "1970.67_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.67/1970.67_print.jpg",
+          "width": "2561",
+          "height": "3400",
+          "filesize": "1480701",
+          "filename": "1970.67_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.67/1970.67_full.tif",
+          "width": "4360",
+          "height": "5789",
+          "filesize": "75746032",
+          "filename": "1970.67_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1970.67",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 119143,
+      "title": "Mourner from the Tomb of John the Fearless and Margaret of Bavaria",
+      "creators": [
+        {
+          "id": 9766,
+          "description": "Jean de la Huerta (Spanish, active Burgundy, 1431–62)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1443–45",
+      "creation_date_earliest": 1443,
+      "type": "Sculpture",
+      "technique": "salins alabaster",
+      "measurements": "Overall: 41 x 20.3 x 12.4 cm (16 1/8 x 8 x 4 7/8 in.)",
+      "culture": [
+        "Spanish, Burgundy, Dijon, 15th century"
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.129/1940.129_web.jpg",
+          "width": "688",
+          "height": "900",
+          "filesize": "156625",
+          "filename": "1940.129_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.129/1940.129_print.jpg",
+          "width": "2599",
+          "height": "3400",
+          "filesize": "911960",
+          "filename": "1940.129_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.129/1940.129_full.tif",
+          "width": "10652",
+          "height": "13937",
+          "filesize": "445398564",
+          "filename": "1940.129_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1940.129",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 142560,
+      "title": "Standing Buddha",
+      "creators": [],
+      "creation_date": "c. 900",
+      "creation_date_earliest": 895,
+      "type": "Sculpture",
+      "technique": "brass with silver and copper inlay",
+      "measurements": "Overall: 98.1 cm (38 5/8 in.); Base: 28.2 cm (11 1/8 in.)",
+      "culture": [
+        "India, Kashmir"
+      ],
+      "creditline": "John L. Severance Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.30/1966.30_web.jpg",
+          "width": "685",
+          "height": "900",
+          "filesize": "106806",
+          "filename": "1966.30_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.30/1966.30_print.jpg",
+          "width": "2589",
+          "height": "3400",
+          "filesize": "1056938",
+          "filename": "1966.30_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1966.30/1966.30_full.tif",
+          "width": "10652",
+          "height": "13987",
+          "filesize": "446997328",
+          "filename": "1966.30_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1966.30",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 129799,
+      "title": "Backrest of a Litter",
+      "creators": [],
+      "creation_date": "1185–1275 (radiocarbon date, 95.4% probability)",
+      "creation_date_earliest": 1185,
+      "type": "Sculpture",
+      "technique": "mixed media:  wood, gold alloy, pigment, shell inlay",
+      "measurements": "Overall: 60.4 x 95 cm (23 3/4 x 37 3/8 in.)",
+      "culture": [
+        "Central Andes, North Coast, Chimú people, late Intermediate period"
+      ],
+      "creditline": "John L. Severance Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.233/1952.233_web.jpg",
+          "width": "1263",
+          "height": "858",
+          "filesize": "762370",
+          "filename": "1952.233_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.233/1952.233_print.jpg",
+          "width": "3400",
+          "height": "2310",
+          "filesize": "6234339",
+          "filename": "1952.233_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1952.233/1952.233_full.tif",
+          "width": "6358",
+          "height": "4320",
+          "filesize": "82433012",
+          "filename": "1952.233_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1952.233",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 148021,
+      "title": "Eleven-Headed Bodhisattva of Compassion (Avalokiteshvara)",
+      "creators": [],
+      "creation_date": "around 1000",
+      "creation_date_earliest": 975,
+      "type": "Sculpture",
+      "technique": "gilt bronze with silver and copper inlay",
+      "measurements": "Overall: 39.4 x 14 x 7.6 cm (15 1/2 x 5 1/2 x 3 in.)",
+      "culture": [
+        "Western Himalayas"
+      ],
+      "creditline": "Andrew R. and Martha Holden Jennings Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.101/1975.101_web.jpg",
+          "width": "607",
+          "height": "893",
+          "filesize": "51260",
+          "filename": "1975.101_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.101/1975.101_print.jpg",
+          "width": "2310",
+          "height": "3400",
+          "filesize": "670490",
+          "filename": "1975.101_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1975.101/1975.101_full.tif",
+          "width": "3964",
+          "height": "5833",
+          "filesize": "69445016",
+          "filename": "1975.101_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1975.101",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 119132,
+      "title": "Mourner from the Tomb of Philip the Bold, Duke of Burgundy (1364–1404)",
+      "creators": [
+        {
+          "id": 9759,
+          "description": "Claus de Werve (Netherlandish, 1380–1439)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": "active in Burgundy (mostly Dijon) from 1396 until his death.",
+          "name_in_original_language": null,
+          "birth_year": "1380",
+          "death_year": "1439",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1404–1410",
+      "creation_date_earliest": 1404,
+      "type": "Sculpture",
+      "technique": "vizille alabaster",
+      "measurements": "Overall: 41.7 x 16.6 x 11.7 cm (16 7/16 x 6 9/16 x 4 5/8 in.)",
+      "culture": [
+        "Netherlands, active Dijon, 15th century"
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.128/1940.128_web.jpg",
+          "width": "687",
+          "height": "900",
+          "filesize": "151350",
+          "filename": "1940.128_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.128/1940.128_print.jpg",
+          "width": "2596",
+          "height": "3400",
+          "filesize": "881391",
+          "filename": "1940.128_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1940.128/1940.128_full.tif",
+          "width": "10652",
+          "height": "13949",
+          "filesize": "445781740",
+          "filename": "1940.128_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1940.128",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 98627,
+      "title": "The Age of Bronze",
+      "creators": [
+        {
+          "id": 5925,
+          "description": "Auguste Rodin (French, 1840–1917)",
+          "extent": null,
+          "qualifier": null,
+          "role": "artist",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1917",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "1875–76",
+      "creation_date_earliest": 1875,
+      "type": "Sculpture",
+      "technique": "bronze",
+      "measurements": "with base: 182.2 x 66.4 x 47 cm (71 3/4 x 26 1/8 x 18 1/2 in.)",
+      "culture": [
+        "France, 19th century"
+      ],
+      "creditline": "Gift of Mr. and Mrs. Ralph King",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1918.328/1918.328_web.jpg",
+          "width": "507",
+          "height": "893",
+          "filesize": "189298",
+          "filename": "1918.328_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1918.328/1918.328_print.jpg",
+          "width": "1930",
+          "height": "3400",
+          "filesize": "2492279",
+          "filename": "1918.328_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1918.328/1918.328_full.tif",
+          "width": "3352",
+          "height": "5904",
+          "filesize": "59399540",
+          "filename": "1918.328_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1918.328",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 127239,
+      "title": "Seated Male Carrying Maize",
+      "creators": [],
+      "creation_date": "1325–1521",
+      "creation_date_earliest": 1325,
+      "type": "Sculpture",
+      "technique": "stone, pigment",
+      "measurements": "Overall: 31.1 x 24.1 x 30.5 cm (12 1/4 x 9 1/2 x 12 in.)",
+      "culture": [
+        "Central Mexico, Aztec style, 13th-16th century"
+      ],
+      "creditline": "The Norweb Collection",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.555/1949.555_web.jpg",
+          "width": "915",
+          "height": "893",
+          "filesize": "456314",
+          "filename": "1949.555_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.555/1949.555_print.jpg",
+          "width": "3400",
+          "height": "3319",
+          "filesize": "7431375",
+          "filename": "1949.555_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1949.555/1949.555_full.tif",
+          "width": "4864",
+          "height": "4749",
+          "filesize": "69324896",
+          "filename": "1949.555_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1949.555",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 145407,
+      "title": "Ganesha",
+      "creators": [],
+      "creation_date": "c. 1070",
+      "creation_date_earliest": 1060,
+      "type": "Sculpture",
+      "technique": "bronze",
+      "measurements": "Overall: 50.8 x 25.4 x 17.8 cm (20 x 10 x 7 in.); Base: 23 x 18.3 cm (9 1/16 x 7 3/16 in.)",
+      "culture": [
+        "South India, Medieval period, Chola dynasty(10th-13th century)"
+      ],
+      "creditline": "Gift of Katharine Holden Thayer",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.62/1970.62_web.jpg",
+          "width": "541",
+          "height": "893",
+          "filesize": "285965",
+          "filename": "1970.62_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.62/1970.62_print.jpg",
+          "width": "2058",
+          "height": "3400",
+          "filesize": "4036886",
+          "filename": "1970.62_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1970.62/1970.62_full.tif",
+          "width": "3026",
+          "height": "5000",
+          "filesize": "45423712",
+          "filename": "1970.62_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1970.62",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 122979,
+      "title": "Saluting Protective Spirit",
+      "creators": [],
+      "creation_date": "883–859 BCE",
+      "creation_date_earliest": -883,
+      "type": "Sculpture",
+      "technique": "gypsum",
+      "measurements": "Overall: 229.9 x 137 cm (90 1/2 x 53 15/16 in.)",
+      "culture": [
+        "Neo-Assyrian (911–609 BCE), Iraq, Nimrud, Northwest Palace, reign of Ashurnasirpal II (883–859 BCE)"
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.246/1943.246_web.jpg",
+          "width": "668",
+          "height": "893",
+          "filesize": "421435",
+          "filename": "1943.246_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.246/1943.246_print.jpg",
+          "width": "2545",
+          "height": "3400",
+          "filesize": "6526585",
+          "filename": "1943.246_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1943.246/1943.246_full.tif",
+          "width": "4992",
+          "height": "6668",
+          "filesize": "99914632",
+          "filename": "1943.246_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1943.246",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 114974,
+      "title": "Buddha Calling on Earth to Witness",
+      "creators": [],
+      "creation_date": "800s",
+      "creation_date_earliest": 800,
+      "type": "Sculpture",
+      "technique": "chloritic schist",
+      "measurements": "Overall: 94 cm (37 in.)",
+      "culture": [
+        "Northeastern India, Bihar, Tetravan, Pala Period (750-1197)"
+      ],
+      "creditline": "Dudley P. Allen Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1935.146/1935.146_web.jpg",
+          "width": "593",
+          "height": "893",
+          "filesize": "332484",
+          "filename": "1935.146_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1935.146/1935.146_print.jpg",
+          "width": "2258",
+          "height": "3400",
+          "filesize": "4437072",
+          "filename": "1935.146_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1935.146/1935.146_full.tif",
+          "width": "3320",
+          "height": "5000",
+          "filesize": "49830732",
+          "filename": "1935.146_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1935.146",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 153765,
+      "title": "Commemorative figure (lefem)",
+      "creators": [
+        {
+          "id": 49917,
+          "description": "Ateu Atsa (Bangwa, c. 1840–1910)",
+          "extent": "carved by",
+          "qualifier": "probably carved by",
+          "role": "carver",
+          "biography": null,
+          "name_in_original_language": null,
+          "birth_year": "1840",
+          "death_year": "1910",
+          "use_in_caption": true,
+          "include_extent": false,
+          "weight": 1
+        }
+      ],
+      "creation_date": "mid-1800s–1910",
+      "creation_date_earliest": 1850,
+      "type": "Sculpture",
+      "technique": "wood",
+      "measurements": "Overall: 92.1 x 20.3 cm (36 1/4 x 8 in.)",
+      "culture": [
+        "Africa, Central Africa, Cameroon, Bangwa Kingdom"
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.62/1987.62_web.jpg",
+          "width": "582",
+          "height": "893",
+          "filesize": "265074",
+          "filename": "1987.62_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.62/1987.62_print.jpg",
+          "width": "2216",
+          "height": "3400",
+          "filesize": "3760193",
+          "filename": "1987.62_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1987.62/1987.62_full.tif",
+          "width": "5150",
+          "height": "7900",
+          "filesize": "122087324",
+          "filename": "1987.62_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1987.62",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 149101,
+      "title": "Corner Railing Pillar with Drinking Scenes, Yakshis, and Musicians",
+      "creators": [],
+      "creation_date": "100s CE",
+      "creation_date_earliest": 100,
+      "type": "Sculpture",
+      "technique": "red sandstone",
+      "measurements": "Overall: 80 x 22.9 x 24 cm (31 1/2 x 9 x 9 7/16 in.)",
+      "culture": [
+        "India, Mathura, Kushan period"
+      ],
+      "creditline": "John L. Severance Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1977.34/1977.34_web.jpg",
+          "width": "560",
+          "height": "893",
+          "filesize": "298825",
+          "filename": "1977.34_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1977.34/1977.34_print.jpg",
+          "width": "2132",
+          "height": "3400",
+          "filesize": "4336639",
+          "filename": "1977.34_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1977.34/1977.34_full.tif",
+          "width": "4009",
+          "height": "6394",
+          "filesize": "76931896",
+          "filename": "1977.34_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1977.34",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 141644,
+      "title": "Jonah Cast Up",
+      "creators": [],
+      "creation_date": "280–90 CE",
+      "creation_date_earliest": 280,
+      "type": "Sculpture",
+      "technique": "marble",
+      "measurements": "Overall: 41.5 x 36 x 18.5 cm (16 5/16 x 14 3/16 x 7 5/16 in.)",
+      "culture": [
+        "Anatolia, late Roman-early Christian"
+      ],
+      "creditline": "John L. Severance Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.238/1965.238_web.jpg",
+          "width": "690",
+          "height": "893",
+          "filesize": "262341",
+          "filename": "1965.238_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.238/1965.238_print.jpg",
+          "width": "2627",
+          "height": "3400",
+          "filesize": "4460786",
+          "filename": "1965.238_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1965.238/1965.238_full.tif",
+          "width": "4250",
+          "height": "5500",
+          "filesize": "70156824",
+          "filename": "1965.238_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1965.238",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 147084,
+      "title": "Virupa",
+      "creators": [],
+      "creation_date": "early 1400s",
+      "creation_date_earliest": 1400,
+      "type": "Sculpture",
+      "technique": "Gilt bronze with silver, stones, and pigment",
+      "measurements": "Overall: 43.6 cm (17 3/16 in.)",
+      "culture": [
+        "China, Ming dynasty (1368-1644), Yongle reign (1403-1424)"
+      ],
+      "creditline": "Gift of Mary B. Lee, C. Bingham Blossom, Dudley S. Blossom III, Laurel B. Kovacik, and Elizabeth B. Blossom, in memory of Elizabeth B. Blossom",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1972.96/1972.96_web.jpg",
+          "width": "718",
+          "height": "900",
+          "filesize": "171763",
+          "filename": "1972.96_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1972.96/1972.96_print.jpg",
+          "width": "2712",
+          "height": "3400",
+          "filesize": "1762022",
+          "filename": "1972.96_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1972.96/1972.96_full.tif",
+          "width": "6000",
+          "height": "7523",
+          "filesize": "135443332",
+          "filename": "1972.96_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1972.96",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 147480,
+      "title": "Ballgame Hip Protector (Yoke)",
+      "creators": [],
+      "creation_date": "600–900",
+      "creation_date_earliest": 600,
+      "type": "Sculpture",
+      "technique": "greenstone, pigment",
+      "measurements": "Overall: 41.5 x 37.5 x 11 cm (16 5/16 x 14 3/4 x 4 5/16 in.)",
+      "culture": [
+        "Mexico, Gulf Coast, Classic Veracruz style (600-1100)"
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1973.213/1973.213_web.jpg",
+          "width": "1263",
+          "height": "741",
+          "filesize": "528198",
+          "filename": "1973.213_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1973.213/1973.213_print.jpg",
+          "width": "3400",
+          "height": "1996",
+          "filesize": "4424977",
+          "filename": "1973.213_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1973.213/1973.213_full.tif",
+          "width": "6202",
+          "height": "3641",
+          "filesize": "67774604",
+          "filename": "1973.213_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1973.213",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 147155,
+      "title": "Zaō Gongen",
+      "creators": [],
+      "creation_date": "1200s",
+      "creation_date_earliest": 1200,
+      "type": "Sculpture",
+      "technique": "wood",
+      "measurements": "Average: 106.7 cm (42 in.)",
+      "culture": [
+        "Japan, Kamakura period (1185–1333)"
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_web.jpg",
+          "width": "644",
+          "height": "900",
+          "filesize": "191138",
+          "filename": "1973.105_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_print.jpg",
+          "width": "2434",
+          "height": "3400",
+          "filesize": "1375366",
+          "filename": "1973.105_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1973.105/1973.105_full.tif",
+          "width": "3972",
+          "height": "5548",
+          "filesize": "66145324",
+          "filename": "1973.105_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1973.105",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 147519,
+      "title": "Ballgame Palma",
+      "creators": [],
+      "creation_date": "c. 900–1100",
+      "creation_date_earliest": 900,
+      "type": "Sculpture",
+      "technique": "stone",
+      "measurements": "Overall: 49.2 x 23.5 x 11.4 cm (19 3/8 x 9 1/4 x 4 1/2 in.)",
+      "culture": [
+        "Mexico, Gulf Coast, Classic Veracruz style (600-1100)"
+      ],
+      "creditline": "Purchase from the J. H. Wade Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1973.3/1973.3_web.jpg",
+          "width": "606",
+          "height": "900",
+          "filesize": "127266",
+          "filename": "1973.3_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1973.3/1973.3_print.jpg",
+          "width": "2291",
+          "height": "3400",
+          "filesize": "1498287",
+          "filename": "1973.3_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1973.3/1973.3_full.tif",
+          "width": "9404",
+          "height": "13955",
+          "filesize": "393725904",
+          "filename": "1973.3_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1973.3",
+      "share_license_status": "CC0"
+    },
+    {
+      "id": 144280,
+      "title": "Apis Bull",
+      "creators": [],
+      "creation_date": "400–100 BCE",
+      "creation_date_earliest": -400,
+      "type": "Sculpture",
+      "technique": "serpentinite",
+      "measurements": "Overall: 53 x 19 x 59 cm (20 7/8 x 7 1/2 x 23 1/4 in.)",
+      "culture": [
+        "Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)"
+      ],
+      "creditline": "Leonard C. Hanna Jr. Fund",
+      "images": {
+        "annotation": null,
+        "web": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.118/1969.118_web.jpg",
+          "width": "900",
+          "height": "675",
+          "filesize": "139607",
+          "filename": "1969.118_web.jpg"
+        },
+        "print": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.118/1969.118_print.jpg",
+          "width": "3400",
+          "height": "2549",
+          "filesize": "1716861",
+          "filename": "1969.118_print.jpg"
+        },
+        "full": {
+          "url": "https://openaccess-cdn.clevelandart.org/1969.118/1969.118_full.tif",
+          "width": "14204",
+          "height": "10650",
+          "filesize": "453844868",
+          "filename": "1969.118_full.tif"
+        }
+      },
+      "url": "https://clevelandart.org/art/1969.118",
+      "share_license_status": "CC0"
+    }
+  ]
+}
