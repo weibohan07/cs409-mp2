@@ -18,6 +18,15 @@ jobs:
       - run: npm ci
       - run: npm test
       - run: npm run build
+      - name: Package the exact source revision
+        run: git archive --format=zip -o cabinet-source.zip HEAD
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cabinet-source-and-build
+          path: |
+            cabinet-source.zip
+            dist/
+          retention-days: 7
       - run: npx playwright install --with-deps chromium
       - run: npm run test:e2e
       - uses: actions/upload-artifact@v4
