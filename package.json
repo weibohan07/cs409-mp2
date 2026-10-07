@@ -1,0 +1,31 @@
+{
+  "name": "cabinet-mp2",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "engines": { "node": ">=22.12.0" },
+  "scripts": {
+    "dev": "vite",
+    "check": "tsc --noEmit -p tsconfig.app.json && tsc --noEmit -p tsconfig.node.json && node scripts/check-rules.mjs",
+    "build": "npm run check && vite build && node scripts/pages.mjs",
+    "preview": "vite preview",
+    "test": "tsc -p tsconfig.test.json && node --test tests/model.test.mjs",
+    "test:e2e": "playwright test",
+    "data:refresh": "node scripts/update-collection.mjs"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0",
+    "react-router-dom": "^7.9.4"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^22.18.8",
+    "@types/react": "^19.2.0",
+    "@types/react-dom": "^19.2.0",
+    "@vitejs/plugin-react": "^5.0.4",
+    "typescript": "~5.9.3",
+    "vite": "^7.1.9"
+  }
+}
