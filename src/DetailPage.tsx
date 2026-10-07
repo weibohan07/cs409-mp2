@@ -1,7 +1,8 @@
 import { useEffect, useMemo, useState } from 'react';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { errorMessage, getArtwork } from './api';
-import { ArtworkImage, EmptyState } from './components';
+import { EmptyState } from './components';
+import ArtworkViewer from './ArtworkViewer';
 import { useCollection } from './CollectionContext';
 import { neighbors, parseQuery, queryParams, selectArtworks } from './model';
 import type { Artwork, View } from './model';
@@ -36,7 +37,12 @@ export default function DetailPage() {
   const facts = [['Date', work.date], ['Artwork type', work.type], ['Medium', work.medium], ['Dimensions', work.dimensions], ['Culture / origin', work.origin]];
   return <article className="detail-page" data-testid="detail" data-art-id={work.id}>
     <div className="detail-topline"><Link className="back-link" to={back}>← Back to results</Link><span>COLLECTION OBJECT / {work.id}</span></div>
-    <div className="detail-grid"><figure className="detail-figure"><ArtworkImage key={`${work.id}-${work.imageId}`} work={work} large /><figcaption>{work.publicDomain ? 'CC0 public-domain image' : 'Rights information available from the museum'} · Cleveland Museum of Art</figcaption></figure>
+    <nav className="detail-quick-nav" aria-label="Quick artwork navigation">
+      {canNavigate && navigation.previous ? <Link to={detailLink(navigation.previous)} aria-label="Previous artwork (top)">← Previous</Link> : <button type="button" aria-label="Previous artwork (top)" disabled>← Previous</button>}
+      <span className="detail-quick-position" aria-live="polite">{navigation.index >= 0 ? `${navigation.index + 1} / ${results.length}` : 'Outside selection'}</span>
+      {canNavigate && navigation.next ? <Link to={detailLink(navigation.next)} aria-label="Next artwork (top)">Next →</Link> : <button type="button" aria-label="Next artwork (top)" disabled>Next →</button>}
+    </nav>
+    <div className="detail-grid"><figure className="detail-figure"><ArtworkViewer key={`${work.id}-${work.imageId}`} work={work} /><figcaption>{work.publicDomain ? 'CC0 public-domain image' : 'Rights information available from the museum'} · Cleveland Museum of Art</figcaption></figure>
       <div className="detail-information"><p className="eyebrow">{work.type} <span aria-hidden="true">/</span> {work.date}</p><h1>{work.title}</h1><p className="detail-artist">{work.artist}</p>
         {work.artistDisplay && <p className="artist-description">{work.artistDisplay}</p>}
         <dl className="art-facts">{facts.map(([label, value]) => <div key={label}><dt>{label}</dt><dd>{value || 'Not recorded'}</dd></div>)}</dl>
