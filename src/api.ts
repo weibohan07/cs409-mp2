@@ -2,7 +2,6 @@ import axios from 'axios';
 import { normalizeArtwork } from './model';
 import type { Artwork } from './model';
 const client = axios.create({ baseURL: 'https://openaccess-api.clevelandart.org/api', timeout: 15000 });
-const fields = 'id,title,creators,creation_date,creation_date_earliest,type,technique,measurements,culture,creditline,images,url,share_license_status';
 const cacheKey = 'cabinet.cma.collection.v1';
 const cacheLifetime = 60 * 60 * 1000;
 interface ApiResponse { data: unknown; collectedAt?: string }
@@ -36,7 +35,7 @@ export function getLiveCollection(snapshot: Collection): Promise<Collection> {
   livePromise = (async () => {
     const rawWorks: unknown[] = [];
     for (const type of ['Painting', 'Print', 'Sculpture']) {
-      const { data } = await client.get<ApiResponse>('/artworks/', { params: { cc0: '', has_image: 1, type, limit: 24, orderby: 'id', fields } });
+      const { data } = await client.get<ApiResponse>('/artworks/', { params: { cc0: '', has_image: 1, type, limit: 24 } });
       if (!Array.isArray(data.data)) throw new Error('The museum returned an unexpected response.');
       rawWorks.push(...data.data);
     }
@@ -51,7 +50,7 @@ export function getLiveCollection(snapshot: Collection): Promise<Collection> {
   return livePromise;
 }
 export async function getArtwork(id: number, signal: AbortSignal): Promise<Artwork> {
-  const { data } = await client.get<ApiResponse>(`/artworks/${id}`, { params: { fields }, signal });
+  const { data } = await client.get<ApiResponse>(`/artworks/${id}`, { signal });
   const work = normalizeArtwork(data.data);
   if (!work) throw new Error('This artwork could not be found.');
   return work;
