@@ -11,6 +11,7 @@ export interface Artwork {
   origin: string;
   credit: string;
   imageId: string | null;
+  largeImageUrl: string | null;
   imageAlt: string;
   museumUrl: string;
   publicDomain: boolean;
@@ -29,6 +30,7 @@ export function normalizeArtwork(raw: unknown): Artwork | null {
   const creators = Array.isArray(item.creators) ? item.creators.map(object) : [];
   const artist = creators.map(creator => text(creator.description).replace(/\s*\([^)]*\)\s*$/, '')).filter(Boolean).join('; ');
   const image = text(object(object(item.images).web).url);
+  const printImage = text(object(object(item.images).print).url);
   const allowedImage = /^https:\/\/openaccess-cdn\.clevelandart\.org\//.test(image) && item.share_license_status === 'CC0';
   const origin = Array.isArray(item.culture) ? item.culture.filter(value => typeof value === 'string').join('; ') : '';
   const museumUrl = text(item.url);
@@ -39,6 +41,7 @@ export function normalizeArtwork(raw: unknown): Artwork | null {
     date: text(item.creation_date, 'Date not recorded'), type: text(item.type, 'Other'),
     medium: text(item.technique), dimensions: text(item.measurements), origin,
     credit: text(item.creditline), imageId: allowedImage ? image : null,
+    largeImageUrl: allowedImage && /^https:\/\/openaccess-cdn\.clevelandart\.org\//.test(printImage) ? printImage : null,
     imageAlt: `${text(item.title)}${artist ? `, by ${artist}` : ''}`,
     museumUrl: /^https:\/\/(www\.)?clevelandart\.org\//.test(museumUrl) ? museumUrl : `https://openaccess-api.clevelandart.org/api/artworks/${item.id}`,
     publicDomain: item.share_license_status === 'CC0',

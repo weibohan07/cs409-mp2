@@ -1,0 +1,52 @@
+/* Detail-only additions. Existing collection layout, colors and controls stay intact. */
+.detail-quick-nav {
+  position: sticky; top: 0; z-index: 3; display: grid;
+  grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+  align-items: center; gap: 16px; margin: -12px 0 26px; padding: 9px 0;
+  background: var(--paper); border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+}
+.detail-quick-nav a, .detail-quick-nav button {
+  display: inline-flex; align-items: center; justify-content: center; min-height: 44px;
+  padding: 8px 14px; border: 1px solid var(--line); background: transparent;
+  color: var(--ink); text-decoration: none; font-size: 12px; justify-self: start;
+}
+.detail-quick-nav a:hover { border-color: var(--accent); color: var(--accent); }
+.detail-quick-nav a:last-child, .detail-quick-nav button:last-child { justify-self: end; }
+.detail-quick-position { color: var(--muted); font-size: 12px; text-align: center; font-variant-numeric: tabular-nums; }
+.detail-image-control { position: relative; }
+.art-viewer-trigger {
+  position: absolute; inset: 0; display: flex; justify-content: flex-end; align-items: flex-end;
+  width: 100%; padding: 16px; border: 0; background: transparent; cursor: zoom-in;
+}
+.art-viewer-trigger > span { background: var(--paper); border: 1px solid var(--line); padding: 7px 12px; font-size: 11px; }
+.art-viewer-trigger > span > span { margin-left: 8px; }
+.art-viewer-trigger:hover > span { color: var(--accent); border-color: var(--accent); }
+.art-viewer-open { overflow: hidden; scrollbar-gutter: stable; }
+.art-viewer {
+  width: min(1440px, calc(100vw - 40px)); height: calc(100dvh - 40px);
+  max-width: none; max-height: none; margin: auto; padding: 0;
+  border: 1px solid #494940; background: #181917; color: #f6f4eb; overflow: hidden;
+}
+.art-viewer[open] { display: flex; flex-direction: column; }
+.art-viewer::backdrop { background: rgb(0 0 0 / 85%); }
+.art-viewer-header { display: flex; align-items: center; justify-content: space-between; gap: 20px; padding: 10px 20px; border-bottom: 1px solid #494940; }
+.art-viewer-header h2 { min-width: 0; font-family: var(--serif); font-weight: 400; font-size: 21px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+.art-viewer-close { display: inline-flex; align-items: center; gap: 14px; min-height: 44px; flex-shrink: 0; padding: 8px 12px; border: 1px solid #77796f; background: transparent; color: inherit; font-size: 12px; }
+.art-viewer-close span { font-size: 24px; line-height: 1; }
+.art-viewer-close:hover { background: #33352e; }
+.art-viewer :focus-visible { outline-color: #eee9d8; }
+.art-viewer-stage { flex: 1; min-height: 0; position: relative; display: grid; place-items: center; padding: 20px; }
+.art-viewer-image { width: 100%; height: 100%; min-height: 0; object-fit: contain; opacity: 0; }
+.art-viewer-stage.is-loaded .art-viewer-image { opacity: 1; }
+.art-viewer-message { position: absolute; inset: 0; display: grid; place-items: center; padding: 30px; text-align: center; color: #dbdcd2; font-size: 13px; }
+.art-viewer-caption { padding: 10px 20px 14px; font-size: 11px; color: #c4c7ba; }
+.art-viewer-caption span { display: block; font-size: 10px; margin-top: 2px; }
+@media (max-width: 650px) {
+  .detail-quick-nav { gap: 10px; margin-top: -8px; margin-bottom: 20px; }
+  .detail-quick-nav a, .detail-quick-nav button { padding: 8px 10px; }
+  .art-viewer { width: calc(100vw - 16px); height: calc(100dvh - 16px); }
+  .art-viewer-header { padding: 8px 12px; gap: 10px; }
+  .art-viewer-header h2 { font-size: 18px; }
+  .art-viewer-stage { padding: 10px; }
+  .art-viewer-caption { padding: 8px 12px 12px; }
+}

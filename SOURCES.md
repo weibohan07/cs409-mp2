@@ -19,3 +19,11 @@ Baseline application code, styles, tests, Actions changes and project documentat
 All production artwork records and images are from Cleveland Museum of Art, using records marked CC0. Museum and artist credits are preserved. This is an independent student project, not a museum-affiliated site.
 
 This disclosure does NOT replace the required complete chatlogs and LLM survey. Add references and logs for all subsequent edits.
+
+## Requested detail and navigation improvements
+
+- React Router navigation type: https://reactrouter.com/api/hooks/useNavigationType — distinguish history returns from new navigation.
+- Browser scroll restoration: https://developer.mozilla.org/en-US/docs/Web/API/History/scrollRestoration — avoid competing native and app restoration.
+- Native modal dialogs: https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/dialog — modal semantics, focus, cancellation and backdrop.
+
+The small scroll-restoration, larger-image viewer, and top Previous/Next changes and their regression tests were also generated with ChatGPT assistance at the student's request. Include this follow-up conversation in the submitted chatlogs. No unrelated layout or feature redesign was made.
