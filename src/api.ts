@@ -1,28 +1,23 @@
 import axios from 'axios';
 import { normalizeArtwork } from './model';
 import type { Artwork } from './model';
-
-const client = axios.create({ baseURL: 'https://api.artic.edu/api/v1', timeout: 10000 });
-const fields = 'id,title,artist_title,artist_display,date_start,date_display,artwork_type_title,medium_display,dimensions,place_of_origin,credit_line,image_id,is_public_domain,thumbnail';
-const cacheKey = 'cabinet.collection.v1';
+const client = axios.create({ baseURL: 'https://openaccess-api.clevelandart.org/api', timeout: 15000 });
+const fields = 'id,title,creators,creation_date,creation_date_earliest,type,technique,measurements,culture,creditline,images,url,share_license_status';
+const cacheKey = 'cabinet.cma.collection.v1';
 const cacheLifetime = 60 * 60 * 1000;
-interface ApiResponse { data: unknown; config?: { iiif_url?: string }; collectedAt?: string }
+interface ApiResponse { data: unknown; collectedAt?: string }
 export interface Collection { works: Artwork[]; collectedAt: string }
-
 function readWorks(response: ApiResponse): Artwork[] {
   if (!Array.isArray(response.data)) throw new Error('The museum returned an unexpected response.');
-  const iiif = response.config?.iiif_url ?? 'https://www.artic.edu/iiif/2';
-  const works = response.data.map(raw => normalizeArtwork(raw, iiif)).filter((work): work is Artwork => work !== null);
+  const works = response.data.map(raw => normalizeArtwork(raw)).filter((work): work is Artwork => work !== null);
   if (!works.length) throw new Error('No usable artworks were returned.');
   return [...new Map(works.map(work => [work.id, work])).values()];
 }
 let snapshotPromise: Promise<Collection> | undefined;
 export function getSnapshot(): Promise<Collection> {
-  if (!snapshotPromise) {
-    snapshotPromise = axios.get<ApiResponse>(`${import.meta.env.BASE_URL}data/collection.json`, { timeout: 10000 })
-      .then(({ data }) => ({ works: readWorks(data), collectedAt: data.collectedAt ?? '' }))
-      .catch((error: unknown) => { snapshotPromise = undefined; throw error; });
-  }
+  if (!snapshotPromise) snapshotPromise = axios.get<ApiResponse>(`${import.meta.env.BASE_URL}data/collection.json`, { timeout: 10000 })
+    .then(({ data }) => ({ works: readWorks(data), collectedAt: data.collectedAt ?? '' }))
+    .catch((error: unknown) => { snapshotPromise = undefined; throw error; });
   return snapshotPromise;
 }
 export function readCache(snapshot: Collection): Collection | null {
@@ -40,33 +35,25 @@ export function getLiveCollection(snapshot: Collection): Promise<Collection> {
   if (livePromise) return livePromise;
   livePromise = (async () => {
     const rawWorks: unknown[] = [];
-    let iiif = 'https://www.artic.edu/iiif/2';
-    // Batch calls instead of requesting every card, render, or search keystroke.
-    for (let start = 0; start < snapshot.works.length; start += 32) {
-      const ids = snapshot.works.slice(start, start + 32).map(work => work.id).join(',');
-      const { data } = await client.get<ApiResponse>('/artworks', { params: { ids, fields, limit: 100 } });
+    for (const type of ['Painting', 'Print', 'Sculpture']) {
+      const { data } = await client.get<ApiResponse>('/artworks/', { params: { cc0: '', has_image: 1, type, limit: 24, orderby: 'id', fields } });
       if (!Array.isArray(data.data)) throw new Error('The museum returned an unexpected response.');
       rawWorks.push(...data.data);
-      iiif = data.config?.iiif_url ?? iiif;
     }
-    const response: ApiResponse = { data: rawWorks, config: { iiif_url: iiif } };
+    const response: ApiResponse = { data: rawWorks };
     const works = readWorks(response);
     const expectedIds = new Set(snapshot.works.map(work => work.id));
-    if (works.length !== expectedIds.size || works.some(work => !expectedIds.has(work.id))) {
-      throw new Error('The museum returned an incomplete collection; the saved edition remains available.');
-    }
+    if (works.length !== expectedIds.size || works.some(work => !expectedIds.has(work.id))) throw new Error('The live selection changed or was incomplete. The saved edition remains available.');
     const savedAt = Date.now();
-    try {
-      localStorage.setItem(cacheKey, JSON.stringify({ savedAt, ids: [...expectedIds].sort((a, b) => a - b).join(','), response }));
-    } catch { /* A full cache or private browsing must not break the app. */ }
+    try { localStorage.setItem(cacheKey, JSON.stringify({ savedAt, ids: [...expectedIds].sort((a, b) => a - b).join(','), response })); } catch { /* A full cache must not break browsing. */ }
     return { works, collectedAt: new Date(savedAt).toISOString() };
   })().finally(() => { livePromise = undefined; });
   return livePromise;
 }
 export async function getArtwork(id: number, signal: AbortSignal): Promise<Artwork> {
   const { data } = await client.get<ApiResponse>(`/artworks/${id}`, { params: { fields }, signal });
-  const work = normalizeArtwork(data.data, data.config?.iiif_url ?? 'https://www.artic.edu/iiif/2');
-  if (!work) throw new Error('This artwork is not available.');
+  const work = normalizeArtwork(data.data);
+  if (!work) throw new Error('This artwork could not be found.');
   return work;
 }
 export function errorMessage(error: unknown): string {

@@ -12,41 +12,41 @@ export interface Artwork {
   credit: string;
   imageId: string | null;
   imageAlt: string;
-  iiifUrl: string;
+  museumUrl: string;
   publicDomain: boolean;
 }
 export type SortKey = 'title' | 'year' | 'artist';
 export type Direction = 'asc' | 'desc';
 export type View = 'list' | 'gallery';
 export interface BrowseQuery { q: string; types: string[]; sort: SortKey; direction: Direction }
+const text = (value: unknown, fallback = ''): string => typeof value === 'string' && value.trim() ? value.trim() : fallback;
+const object = (value: unknown): Record<string, unknown> => typeof value === 'object' && value !== null ? value as Record<string, unknown> : {};
 
-const text = (value: unknown, fallback = ''): string =>
-  typeof value === 'string' && value.trim() ? value.trim() : fallback;
-
-export function normalizeArtwork(raw: unknown, iiifUrl: string): Artwork | null {
-  if (typeof raw !== 'object' || raw === null) return null;
-  const item = raw as Record<string, unknown>;
-  if (typeof item.id !== 'number' || !Number.isSafeInteger(item.id) || item.id <= 0) return null;
-  if (typeof item.title !== 'string' || !item.title.trim()) return null;
-  const thumbnail = item.thumbnail as { alt_text?: unknown } | null;
+// Convert the documented Cleveland Museum of Art response into our UI model.
+export function normalizeArtwork(raw: unknown): Artwork | null {
+  const item = object(raw);
+  if (typeof item.id !== 'number' || !Number.isSafeInteger(item.id) || item.id <= 0 || !text(item.title)) return null;
+  const creators = Array.isArray(item.creators) ? item.creators.map(object) : [];
+  const artist = creators.map(creator => text(creator.description).replace(/\s*\([^)]*\)\s*$/, '')).filter(Boolean).join('; ');
+  const image = text(object(object(item.images).web).url);
+  const allowedImage = /^https:\/\/openaccess-cdn\.clevelandart\.org\//.test(image) && item.share_license_status === 'CC0';
+  const origin = Array.isArray(item.culture) ? item.culture.filter(value => typeof value === 'string').join('; ') : '';
+  const museumUrl = text(item.url);
   return {
-    id: item.id, title: item.title.trim(),
-    artist: text(item.artist_title, 'Unidentified artist'), artistDisplay: text(item.artist_display),
-    year: typeof item.date_start === 'number' && Number.isFinite(item.date_start) ? item.date_start : null,
-    date: text(item.date_display, 'Date not recorded'), type: text(item.artwork_type_title, 'Other'),
-    medium: text(item.medium_display), dimensions: text(item.dimensions),
-    origin: text(item.place_of_origin), credit: text(item.credit_line),
-    imageId: item.is_public_domain === true ? text(item.image_id) || null : null,
-    imageAlt: text(thumbnail?.alt_text, item.title),
-    iiifUrl: /^https:\/\//.test(iiifUrl) ? iiifUrl.replace(/\/$/, '') : 'https://www.artic.edu/iiif/2',
-    publicDomain: item.is_public_domain === true,
+    id: item.id, title: text(item.title), artist: artist || 'Unidentified artist',
+    artistDisplay: creators.map(creator => text(creator.description)).filter(Boolean).join('; '),
+    year: typeof item.creation_date_earliest === 'number' && Number.isFinite(item.creation_date_earliest) ? item.creation_date_earliest : null,
+    date: text(item.creation_date, 'Date not recorded'), type: text(item.type, 'Other'),
+    medium: text(item.technique), dimensions: text(item.measurements), origin,
+    credit: text(item.creditline), imageId: allowedImage ? image : null,
+    imageAlt: `${text(item.title)}${artist ? `, by ${artist}` : ''}`,
+    museumUrl: /^https:\/\/(www\.)?clevelandart\.org\//.test(museumUrl) ? museumUrl : `https://openaccess-api.clevelandart.org/api/artworks/${item.id}`,
+    publicDomain: item.share_license_status === 'CC0',
   };
 }
 export function parseQuery(params: URLSearchParams): BrowseQuery {
   const sort = params.get('sort');
-  return { q: params.get('q') ?? '', types: [...new Set(params.getAll('type').filter(Boolean))],
-    sort: sort === 'year' || sort === 'artist' ? sort : 'title',
-    direction: params.get('order') === 'desc' ? 'desc' : 'asc' };
+  return { q: params.get('q') ?? '', types: [...new Set(params.getAll('type').filter(Boolean))], sort: sort === 'year' || sort === 'artist' ? sort : 'title', direction: params.get('order') === 'desc' ? 'desc' : 'asc' };
 }
 export function queryParams(query: BrowseQuery, from?: View): URLSearchParams {
   const params = new URLSearchParams();
@@ -68,7 +68,6 @@ export function selectArtworks(artworks: readonly Artwork[], query: BrowseQuery)
   }).sort((a, b) => {
     let comparison: number;
     if (query.sort === 'year') {
-      // Unknown dates remain last in both directions, rather than becoming year zero.
       if (a.year === null && b.year === null) return a.id - b.id;
       if (a.year === null) return 1;
       if (b.year === null) return -1;
@@ -82,6 +81,4 @@ export function neighbors(works: readonly Artwork[], id: number) {
   if (index < 0 || works.length === 0) return { index: -1, previous: null, next: null };
   return { index, previous: works[(index - 1 + works.length) % works.length], next: works[(index + 1) % works.length] };
 }
-export function imageUrl(work: Artwork, width = 600): string | null {
-  return work.imageId ? `${work.iiifUrl}/${encodeURIComponent(work.imageId)}/full/${width},/0/default.jpg` : null;
-}
+export function imageUrl(work: Artwork): string | null { return work.imageId; }
