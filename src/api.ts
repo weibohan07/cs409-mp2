@@ -35,7 +35,9 @@ export function getLiveCollection(snapshot: Collection): Promise<Collection> {
   livePromise = (async () => {
     const rawWorks: unknown[] = [];
     for (const type of ['Painting', 'Print', 'Sculpture']) {
-      const { data } = await client.get<ApiResponse>('/artworks/', { params: { cc0: '', has_image: 1, type, limit: 24 } });
+      // The canonical endpoint has no trailing slash. The slash variant omits
+      // Access-Control-Allow-Origin and therefore fails in real browsers.
+      const { data } = await client.get<ApiResponse>('/artworks', { params: { cc0: '', has_image: 1, type, limit: 24 } });
       if (!Array.isArray(data.data)) throw new Error('The museum returned an unexpected response.');
       rawWorks.push(...data.data);
     }

@@ -1,9 +1,9 @@
 import { test, expect } from '@playwright/test';
 import { mkdir, writeFile } from 'node:fs/promises';
 
-// No mocked network. Verify real images and the documented outage fallback.
-// A fallback pass is NOT a claim that the browser's live API request succeeded.
-test('real images and explicit data-source status render on desktop and mobile', async ({ page }) => {
+// No mocked network: this test requires an actual browser API connection and images.
+// The separate rubric test verifies the labeled outage fallback.
+test('live museum API and real images render on desktop and mobile', async ({ page }) => {
   test.setTimeout(90000);
   const errors: string[] = [];
   page.on('pageerror', error => errors.push(error.message));
@@ -11,14 +11,8 @@ test('real images and explicit data-source status render on desktop and mobile',
   await page.setViewportSize({ width: 1280, height: 960 });
   await page.goto('/cs409-mp2/gallery');
   await expect(page.getByTestId('artwork')).toHaveCount(72);
-  await expect(page.getByRole('button', { name: 'Refresh data', exact: true })).toBeEnabled({ timeout: 50000 });
-  const status = await page.locator('.source-status').innerText();
-  if (!status.includes('Museum API connected')) {
-    await expect(page.getByText('Saved museum collection', { exact: true })).toBeVisible();
-    await expect(page.locator('.notice')).toContainText('bundled real-API snapshot');
-  }
-  await writeFile('test-results/visual/data-source-status.txt', status + '\n');
-  console.log('Real-browser data-source status:', status);
+  await expect(page.getByText('Museum API connected', { exact: true })).toBeVisible({ timeout: 50000 });
+  await writeFile('test-results/visual/data-source-status.txt', await page.locator('.source-status').innerText());
   await expect.poll(() => page.locator('.art-card img').first().evaluate(image => (image as HTMLImageElement).naturalWidth), { timeout: 20000 }).toBeGreaterThan(1);
   await page.screenshot({ path: 'test-results/visual/gallery-desktop.png' });
   await page.getByTestId('artwork').first().getByRole('link').click();

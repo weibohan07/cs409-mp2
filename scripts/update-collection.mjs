@@ -1,6 +1,6 @@
 import axios from 'axios';
 import { mkdir, writeFile } from 'node:fs/promises';
-const endpoint = 'https://openaccess-api.clevelandart.org/api/artworks/';
+const endpoint = 'https://openaccess-api.clevelandart.org/api/artworks';
 const fields = ['id','title','creators','creation_date','creation_date_earliest','type','technique','measurements','culture','creditline','images','url','share_license_status'];
 const records = new Map();
 for (const type of ['Painting', 'Print', 'Sculpture']) {

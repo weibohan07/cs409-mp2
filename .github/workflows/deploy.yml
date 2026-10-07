@@ -41,3 +41,26 @@ jobs:
     steps:
       - id: deployment
         uses: actions/deploy-pages@v4
+  verify-deployed-site:
+    needs: deploy
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium
+      - name: Verify live API, actual media and detail refresh on the deployed URL
+        run: npm run test:e2e -- visual.spec.ts
+        env:
+          PLAYWRIGHT_BASE_URL: https://weibohan07.github.io/cs409-mp2/
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: deployed-site-verification
+          path: |
+            playwright-report/
+            test-results/
+          retention-days: 7

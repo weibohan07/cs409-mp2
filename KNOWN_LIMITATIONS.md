@@ -1,19 +1,17 @@
-# Verified limitations and grading scope
+# Implementation notes and limitations
 
-## Museum transport and fallback
+## Museum API endpoint: resolved browser CORS issue
 
-The final dataset is 72 genuine Cleveland Museum of Art API records with their corresponding CC0 images. It was fetched with Axios, saved in `public/data/collection.json`, and is fetched by the app through Axios on startup. `npm run data:refresh` deliberately refreshes this dataset using the official API.
+Use the canonical `https://openaccess-api.clevelandart.org/api/artworks` endpoint without a trailing slash. Integration testing found that `/artworks/` did not return the browser CORS header, while `/artworks` returned `Access-Control-Allow-Origin: *`. The application now uses the canonical endpoint. The real-browser integration test requires the live API connection to succeed; it does not accept the fallback as a successful live connection.
 
-During real integration testing, the upstream API returned valid records to Node/Axios, but its browser response did not include the CORS allow-origin header. Direct browser requests therefore failed. The app's live update remains implemented, but currently the browser normally uses the explicitly labeled saved API response. This is not a live connection and is not presented as one. The real-image test accepts this documented fallback only when the UI visibly identifies it; its report records the observed source status. The separate upstream API test verifies Node/Axios connectivity, not browser connectivity.
+The 72-record genuine API snapshot remains for initial rendering and temporary API outages. Runtime updates use Axios, with one-hour caching; failures explicitly identify the saved/cached data source. The outage behavior has a separate browser test. Images are the museum's actual CC0 image URLs, not unrelated placeholders. The snapshot covers metadata only; offline images are not guaranteed.
 
-The supplied course README expressly allows local response substitutes when the API is unavailable, and caching API responses. All required search, sorting, filtering, details and navigation features work with the cached real response. Nevertheless, the instructor determines whether this particular provider limitation is acceptable; this implementation is not a guarantee of 100 points. A rubric requiring successful direct browser-to-provider requests beyond the supplied README would need a CORS-enabled provider or an authorized same-origin proxy.
-
-The saved response includes metadata only; images still load from the museum's public CDN. Image failures receive a visible fallback. Records outside the selected 72 may not be retrievable while browser CORS is unavailable; every linked detail route in the selected collection works without that external request.
+The original Art Institute of Chicago image host returned HTTP 403 during testing, so the final product uses Cleveland Museum of Art, an alternate public API allowed by the supplied README.
 
 ## GitHub Pages detail URLs
 
-The build produces a copy of index.html as 404.html so BrowserRouter can display directly opened detail routes on GitHub Pages. The initial document's HTTP status may remain 404 even though the application renders. This is not a server-side 200 rewrite.
+The build copies index.html to 404.html so BrowserRouter can display directly opened detail routes on GitHub Pages. The initial document's HTTP status may remain 404 even though the application renders. This is not a server-side 200 rewrite.
 
-## Student submission remains outstanding
+## Student submission
 
-Source and tests are not the entire submission. The student still must record and share the deployed demo, export full AI chatlogs, complete the LLM survey, and submit the grading form. ai-logs/README.md is a disclosure, not a complete chatlog.
+The student still must record and share the deployed demo, export full AI chatlogs, complete the LLM survey, and submit the grading form. ai-logs/README.md is a disclosure, not a complete chatlog. Automated test results are not a guarantee of the instructor's grade.
