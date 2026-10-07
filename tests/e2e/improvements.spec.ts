@@ -142,7 +142,8 @@ for (const width of [1280, 390]) test(`top navigation is visible and follows the
   await page.locator('.art-facts').scrollIntoViewIfNeeded();
   await expect(quick).toBeInViewport();
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
-  await page.goto(`${root}artworks/1000?q=Work+00`);
+  await page.goto(`${root}artworks/1000?q=1000`);
+  await expect(quick).toContainText('1 / 1');
   await expect(quick.getByRole('button', { name: 'Next artwork (top)' })).toBeDisabled();
   await expect(quick.getByRole('button', { name: 'Previous artwork (top)' })).toBeDisabled();
 });
