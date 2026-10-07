@@ -1,5 +1,23 @@
 import { test, expect } from '@playwright/test';
+import type { Locator } from '@playwright/test';
 import { mkdir, writeFile } from 'node:fs/promises';
+
+async function expectPaintedImage(image: Locator) {
+  // Dimensions can be available before the browser has downloaded/decoded the pixels.
+  await expect.poll(() => image.evaluate(element => {
+    const img = element as HTMLImageElement;
+    return img.complete && img.naturalWidth > 1;
+  }), { timeout: 25000 }).toBe(true);
+  await image.evaluate(element => (element as HTMLImageElement).decode());
+  await expect(image).toHaveCSS('opacity', '1');
+}
+async function expectViewerImage(image: Locator) {
+  await expectPaintedImage(image);
+  await expect(image).toBeInViewport({ ratio: 0.99 });
+  const box = await image.boundingBox();
+  expect(box?.height).toBeGreaterThan(100);
+  expect(box?.width).toBeGreaterThan(100);
+}
 
 // No mocked network: this test requires an actual browser API connection and images.
 // The separate rubric test verifies the labeled outage fallback.
@@ -20,11 +38,11 @@ test('live museum API and real images render on desktop and mobile', async ({ pa
   const resultsY = await page.evaluate(() => window.scrollY);
   await selected.getByRole('link').click();
   await expect(page.getByTestId('detail')).toBeVisible();
-  await expect.poll(() => page.locator('.detail-figure img').evaluate(image => (image as HTMLImageElement).naturalWidth), { timeout: 20000 }).toBeGreaterThan(1);
+  await expectPaintedImage(page.locator('.detail-figure img'));
   await expect(page.getByRole('navigation', { name: 'Quick artwork navigation' })).toBeInViewport();
   await page.screenshot({ path: 'test-results/visual/detail-desktop.png', fullPage: true });
   await page.getByRole('button', { name: 'Open full-size image' }).click();
-  await expect.poll(() => page.getByRole('dialog').locator('img').evaluate(image => (image as HTMLImageElement).naturalWidth), { timeout: 25000 }).toBeGreaterThan(1);
+  await expectViewerImage(page.getByRole('dialog').locator('img'));
   await page.screenshot({ path: 'test-results/visual/viewer-desktop.png' });
   await page.keyboard.press('Escape');
   await expect(page.getByRole('dialog')).not.toBeVisible();
@@ -34,11 +52,11 @@ test('live museum API and real images render on desktop and mobile', async ({ pa
   await page.reload();
   await expect(page.getByTestId('detail')).toBeVisible();
   await page.setViewportSize({ width: 390, height: 844 });
-  await expect.poll(() => page.locator('.detail-figure img').evaluate(image => (image as HTMLImageElement).naturalWidth), { timeout: 20000 }).toBeGreaterThan(1);
+  await expectPaintedImage(page.locator('.detail-figure img'));
   await page.screenshot({ path: 'test-results/visual/detail-mobile.png', fullPage: true });
   expect(await page.evaluate(() => document.documentElement.scrollWidth <= window.innerWidth)).toBe(true);
   await page.getByRole('button', { name: 'Open full-size image' }).click();
-  await expect.poll(() => page.getByRole('dialog').locator('img').evaluate(image => (image as HTMLImageElement).naturalWidth), { timeout: 25000 }).toBeGreaterThan(1);
+  await expectViewerImage(page.getByRole('dialog').locator('img'));
   await page.screenshot({ path: 'test-results/visual/viewer-mobile.png' });
   await page.getByRole('button', { name: 'Close full-size image' }).click();
   await page.goto('/cs409-mp2/list');
